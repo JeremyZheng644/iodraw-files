@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="8802" dy="5254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="6155" dy="3454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-15" value="" style="group" vertex="1" connectable="0" parent="TFPI4Gtbi1XE-iVD9CKZ-1">
           <mxGeometry width="4976.37" height="1836.328830708661" as="geometry" />
-        </mxCell>
-        <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;container=0;" vertex="1" parent="TFPI4Gtbi1XE-iVD9CKZ-15">
-          <mxGeometry x="474.61864317858425" y="538.5338307086612" width="1539.308528461516" height="1297.7949999999998" as="geometry" />
         </mxCell>
         <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;container=0;" vertex="1" parent="TFPI4Gtbi1XE-iVD9CKZ-15">
           <mxGeometry x="605.3146503121092" y="668.3133307086612" width="1336.003628476033" height="1038.2359999999999" as="geometry" />
