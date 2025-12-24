@@ -214,7 +214,7 @@
         <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5760" y="-5789" width="3250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5760" y="-5420" width="3250" height="270" as="geometry" />
         </mxCell>
       </root>
