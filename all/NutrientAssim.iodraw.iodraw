@@ -712,8 +712,10 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2670.41" y="4128.75" width="107.76" height="31.249999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2618.69" y="4163.85" width="107.76" height="31.249999999999993" as="geometry" />
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.689;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VxrQALXWMr3GyaJHTE5P-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2544.4433599999993" y="4165.850000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
