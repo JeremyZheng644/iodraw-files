@@ -796,7 +796,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-92" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;rotation=-180;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-91">
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-92" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;rotation=0;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-91">
           <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
