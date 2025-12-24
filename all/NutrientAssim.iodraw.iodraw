@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="14936" dy="23942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="14482" dy="22722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,11 +651,6 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-24" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-16">
-          <mxGeometry x="-0.2432" y="-14" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-17" value="" style="endArrow=box;html=1;rounded=0;strokeWidth=35;endFill=0;fillColor=#f8cecc;strokeColor=#FF8000;fontStyle=1" edge="1" parent="VxrQALXWMr3GyaJHTE5P-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="558" y="978" as="sourcePoint" />
@@ -668,7 +663,7 @@
             <mxPoint x="978" y="236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fontStyle=1" edge="1" parent="VxrQALXWMr3GyaJHTE5P-20">
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-19" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fontStyle=1;strokeColor=#FF8000;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-228" y="938" as="sourcePoint" />
             <mxPoint x="-228" y="228" as="targetPoint" />
