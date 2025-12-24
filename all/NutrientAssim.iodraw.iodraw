@@ -561,9 +561,9 @@
         <mxCell id="C-NJooUQGxTvs3JhmQF3-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-218" target="C-NJooUQGxTvs3JhmQF3-219">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2690" y="3998" />
-              <mxPoint x="-2690" y="3936" />
-              <mxPoint x="-2670" y="3936" />
+              <mxPoint x="-2690" y="3999" />
+              <mxPoint x="-2690" y="3946" />
+              <mxPoint x="-2670" y="3946" />
             </Array>
           </mxGeometry>
         </mxCell>
