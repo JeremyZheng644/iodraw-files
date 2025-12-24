@@ -1230,12 +1230,14 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.467;exitY=-0.018;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="VxrQALXWMr3GyaJHTE5P-327" target="VxrQALXWMr3GyaJHTE5P-316">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-260" y="1710" />
+              <mxPoint y="1710" />
               <mxPoint y="1532" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-327" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;span&gt;Cytosolic K&lt;sup&gt;+&lt;/sup&gt; depletion&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-209.9999999999999" y="1746.08" width="450" height="78.95" as="geometry" />
+          <mxGeometry x="-469.9999999999999" y="1746.08" width="450" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-330" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;14-3-3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;container=0;fontStyle=1;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-63.35" y="1594.62" width="43.35" height="43.35" as="geometry" />
