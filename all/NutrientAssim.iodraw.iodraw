@@ -373,16 +373,8 @@
         <mxCell id="C-NJooUQGxTvs3JhmQF3-159" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;i&gt;At&lt;/i&gt;HKT1 (Low Affin. K&lt;sup&gt;+&amp;nbsp;&lt;/sup&gt;channel, Inward-Rectifying&lt;/span&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2580" y="4090" width="990" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-160" target="TFPI4Gtbi1XE-iVD9CKZ-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1900" y="4559" />
-              <mxPoint x="-1900" y="4876" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-160" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;span&gt;K&lt;sup&gt;+&lt;/sup&gt; starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1906.3499999999995" y="4480" width="804.03" height="78.95" as="geometry" />
+          <mxGeometry x="-1670" y="4592.45" width="287.68" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
