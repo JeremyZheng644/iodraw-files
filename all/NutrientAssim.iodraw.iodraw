@@ -203,13 +203,16 @@
           <mxGeometry x="1673.0717081850532" y="7301.4" width="2097.4554982206405" height="868.6" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-5300" y="-6370" width="3310" height="1850" as="geometry" />
+          <mxGeometry x="-5300" y="-6370" width="4970" height="1850" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-46" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Legend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-5660" y="-6270" width="1770" height="270" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-49" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Mutation / Knockdown leads to ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-5230" y="-5870" width="3250" height="270" as="geometry" />
+          <mxGeometry x="-3750" y="-5890" width="3250" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Mutation / Knockdown leads to ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3740" y="-5880" width="3250" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
