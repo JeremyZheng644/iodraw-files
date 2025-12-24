@@ -1339,10 +1339,8 @@
             <mxPoint x="6100" y="-2460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-361" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-360">
-          <mxGeometry x="0.2468" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-362" value="&lt;div&gt;&lt;font style=&quot;font-size: 80px;&quot;&gt;Contradiction&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="5540" y="-2830" width="300" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
