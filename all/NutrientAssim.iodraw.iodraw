@@ -121,7 +121,7 @@
         <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" parent="TFPI4Gtbi1XE-iVD9CKZ-103" vertex="1">
           <mxGeometry y="19.399999999999977" width="107.76" height="58.96" as="geometry" />
         </mxCell>
-        <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;container=0;fontStyle=1;strokeColor=#FF8000;" parent="TFPI4Gtbi1XE-iVD9CKZ-103" vertex="1">
+        <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=#d6b656;" parent="TFPI4Gtbi1XE-iVD9CKZ-103" vertex="1">
           <mxGeometry x="5" width="97.76" height="97.76" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=4;" edge="1" parent="1" source="TFPI4Gtbi1XE-iVD9CKZ-104" target="VxrQALXWMr3GyaJHTE5P-9">
