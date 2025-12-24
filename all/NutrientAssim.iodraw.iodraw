@@ -307,7 +307,7 @@
           <mxGeometry x="-10520" y="6580" width="2860" height="2860" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-135" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;i&gt;At&lt;/i&gt;AHA2 (P-type H&lt;sup&gt;+&lt;/sup&gt;-ATPase)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2390" y="4750" width="804.03" height="78.95" as="geometry" />
+          <mxGeometry x="-2020" y="5150" width="804.03" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
