@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d9SsAvD0iZe556LONDtf-73" value="" style="group;fontStyle=1" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-7510" y="-7230" width="5990" height="2480" as="geometry" />
+          <mxGeometry x="-7510" y="-7230" width="5990" height="2710" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
-          <mxGeometry x="1020" width="4970" height="2230" as="geometry" />
+          <mxGeometry x="1020" width="4970" height="2710" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-46" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Legend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="660" y="100" width="1770" height="270" as="geometry" />
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-13" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Experimental Evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="d9SsAvD0iZe556LONDtf-73">
-          <mxGeometry x="1110" y="2210" width="3250" height="270" as="geometry" />
+          <mxGeometry x="650" y="2210" width="3250" height="270" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d9SsAvD0iZe556LONDtf-73" source="d9SsAvD0iZe556LONDtf-49" target="VxrQALXWMr3GyaJHTE5P-13">
           <mxGeometry relative="1" as="geometry">
