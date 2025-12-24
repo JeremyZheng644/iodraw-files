@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="13963" dy="20434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="19743" dy="30944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;strokeColor=#000000;container=0;" parent="d9SsAvD0iZe556LONDtf-13" vertex="1">
           <mxGeometry x="1670.1" y="7301.4" width="2093.73" height="868.6" as="geometry" />
-        </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;Endodermis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d9SsAvD0iZe556LONDtf-12">
-          <mxGeometry x="2530" y="-340" width="2610" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6320" y="1712.95" width="183.41" height="341.19" as="geometry" />
@@ -207,6 +204,9 @@
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-82" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;&lt;b&gt;Xylem Parenchyma&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="d9SsAvD0iZe556LONDtf-15" vertex="1">
           <mxGeometry x="6660" y="1300" width="2200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;Endodermis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d9SsAvD0iZe556LONDtf-15">
+          <mxGeometry x="3030" y="1670" width="2610" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;strokeColor=#000000;container=0;" parent="d9SsAvD0iZe556LONDtf-14" vertex="1">
           <mxGeometry x="1673.0717081850532" y="7301.4" width="2097.4554982206405" height="868.6" as="geometry" />
