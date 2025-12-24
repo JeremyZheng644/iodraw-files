@@ -274,7 +274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-160" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;span&gt;K&lt;sup&gt;+&lt;/sup&gt; starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1635.23" y="4600.55" width="287.68" height="78.95" as="geometry" />
+          <mxGeometry x="-1460" y="4592.45" width="287.68" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-163">
           <mxGeometry relative="1" as="geometry">
@@ -1350,9 +1350,6 @@
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-363" value="&lt;div&gt;&lt;font style=&quot;font-size: 80px;&quot;&gt;K&lt;/font&gt;&lt;font style=&quot;font-size: 66.6667px;&quot;&gt;&lt;sup&gt;+&lt;/sup&gt; deficiency&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5310" y="-3890" width="500" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-366" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;span&gt;K&lt;sup&gt;+&lt;/sup&gt; starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1625.23" y="4610.55" width="287.68" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
