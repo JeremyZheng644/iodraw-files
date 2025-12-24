@@ -1105,17 +1105,8 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-262" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1754" y="1637.97" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="VxrQALXWMr3GyaJHTE5P-263">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1753.9999999994725" y="1098.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1700" y="1571" />
-              <mxPoint x="1700" y="1099" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-263" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;Na&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1754" y="1540.0000000000002" width="63" height="63" as="geometry" />
+          <mxGeometry x="1830" y="1637.9700000000003" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-267" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1500" y="940" width="63" height="63" as="geometry" />
