@@ -586,6 +586,25 @@
             <mxPoint x="1" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-385" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3690" y="3979.6166666666663" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-386" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-3690" y="3896.6999999999994" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" source="C-NJooUQGxTvs3JhmQF3-385" target="C-NJooUQGxTvs3JhmQF3-386" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3710" y="3995.2416666666663" />
+              <mxPoint x="-3710" y="3919.1999999999994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-388" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="C-NJooUQGxTvs3JhmQF3-387">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
