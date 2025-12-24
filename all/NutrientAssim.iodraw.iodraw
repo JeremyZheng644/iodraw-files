@@ -557,12 +557,12 @@
             <Array as="points">
               <mxPoint x="-2670" y="3999" />
               <mxPoint x="-2690" y="3999" />
-              <mxPoint x="-2690" y="3956" />
-              <mxPoint x="-2670" y="3956" />
+              <mxPoint x="-2690" y="3946" />
+              <mxPoint x="-2670" y="3946" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-226" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="C-NJooUQGxTvs3JhmQF3-225">
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-226" value="Selectivity Pore Loop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="C-NJooUQGxTvs3JhmQF3-225">
           <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="5" as="offset" />
           </mxGeometry>
