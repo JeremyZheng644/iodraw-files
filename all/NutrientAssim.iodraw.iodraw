@@ -507,13 +507,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-344" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-184" target="C-NJooUQGxTvs3JhmQF3-190">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2790" y="4170" />
+              <mxPoint x="-2790" y="4012" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-184" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2990" y="4137.97" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-190" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2380" y="4238.05" width="63" height="63" as="geometry" />
+          <mxGeometry x="-2380" y="3980" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-191" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;K&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2380" y="4270" width="63" height="63" as="geometry" />
