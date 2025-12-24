@@ -529,8 +529,9 @@
         <mxCell id="C-NJooUQGxTvs3JhmQF3-213" value="&lt;i style=&quot;font-size: 25px;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;HKT1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2675" y="4139.28" width="107.76" height="31.249999999999993" as="geometry" />
         </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-215" target="C-NJooUQGxTvs3JhmQF3-216">
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-215">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2670" y="4050.625" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2680" y="4081.875" />
               <mxPoint x="-2680" y="4050.625" />
@@ -539,12 +540,6 @@
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-215" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2670" y="4066.25" width="107.76" height="31.249999999999993" as="geometry" />
-        </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-216" target="C-NJooUQGxTvs3JhmQF3-218">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-216" value="+ + + + + +" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2670" y="4035" width="107.76" height="31.249999999999993" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-218" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2670" y="3989.9966666666664" width="107.76" height="31.249999999999993" as="geometry" />
