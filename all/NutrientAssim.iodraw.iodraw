@@ -656,6 +656,12 @@
             <mxPoint x="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-33" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="-2000" width="317.76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-34" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2870" y="-1990" width="317.76" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
