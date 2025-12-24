@@ -1146,6 +1146,104 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-282" value="Mutant impaired in guard cell function" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1530" width="390" height="78.95" as="geometry" />
         </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-286" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-2680" y="3159.9999999999995" width="200" height="488.3366666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-289">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="60.000000000000455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-288" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="82.91666666666697" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-289" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-288" target="VxrQALXWMr3GyaJHTE5P-289">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="98.54166666666697" />
+              <mxPoint y="22.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-291" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-290">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-292" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="208.3466666666668" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-294" target="VxrQALXWMr3GyaJHTE5P-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-294" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="125.42999999999984" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-295" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-292" target="VxrQALXWMr3GyaJHTE5P-294">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="223.9716666666668" />
+              <mxPoint y="147.92999999999984" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-296" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-295">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-297" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="331.65666666666675" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-299" target="VxrQALXWMr3GyaJHTE5P-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-299" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="248.73999999999978" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-297" target="VxrQALXWMr3GyaJHTE5P-299">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="347.28166666666675" />
+              <mxPoint y="271.2399999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-301" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-300">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-303">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="480.00000000000045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-303" value="&lt;i style=&quot;font-size: 25px;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;H&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;KT1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="457.0866666666666" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-305" target="VxrQALXWMr3GyaJHTE5P-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-305" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-286">
+          <mxGeometry x="20" y="374.1699999999996" width="107.76" height="31.249999999999993" as="geometry" />
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="VxrQALXWMr3GyaJHTE5P-286" source="VxrQALXWMr3GyaJHTE5P-303" target="VxrQALXWMr3GyaJHTE5P-305">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="472.7116666666666" />
+              <mxPoint y="396.6699999999996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-307" value="Selectivity Pore Domain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;labelBackgroundColor=#f8cb97;" vertex="1" connectable="0" parent="VxrQALXWMr3GyaJHTE5P-306">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
