@@ -519,7 +519,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-213" value="&lt;i style=&quot;font-size: 25px;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;HKT1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;container=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2671.6" y="4170.53" width="107.76" height="31.249999999999993" as="geometry" />
+          <mxGeometry x="-2665" y="4130" width="107.76" height="31.249999999999993" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-269" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-2670" y="3932" width="107.76000000000022" height="89.24666666666644" as="geometry" />
@@ -602,9 +602,6 @@
           <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C-NJooUQGxTvs3JhmQF3-271" target="TFPI4Gtbi1XE-iVD9CKZ-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
