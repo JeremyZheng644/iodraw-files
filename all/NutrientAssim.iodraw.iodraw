@@ -217,10 +217,16 @@
         <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6320" y="-5390" width="3250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=30;" edge="1" parent="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2240" y="-5739" as="sourcePoint" />
-            <mxPoint x="-800" y="-5750" as="targetPoint" />
+            <mxPoint x="-2040" y="-5669" as="sourcePoint" />
+            <mxPoint x="-600" y="-5680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d9SsAvD0iZe556LONDtf-60" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2030" y="-5659" as="sourcePoint" />
+            <mxPoint x="-590" y="-5670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
