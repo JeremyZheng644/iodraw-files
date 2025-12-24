@@ -217,13 +217,13 @@
         <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 200px;&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-6320" y="-4941" width="3250" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;" edge="1" parent="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1560" y="-5241" as="sourcePoint" />
             <mxPoint x="-850" y="-5241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-60" value="" style="endArrow=box;html=1;rounded=0;strokeWidth=35;endFill=0;" edge="1" parent="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-60" value="" style="endArrow=box;html=1;rounded=0;strokeWidth=35;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1590" y="-4813.5" as="sourcePoint" />
             <mxPoint x="-880" y="-4813.5" as="targetPoint" />
@@ -240,8 +240,8 @@
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-71" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1550" y="-5231" as="sourcePoint" />
-            <mxPoint x="-840" y="-5231" as="targetPoint" />
+            <mxPoint x="-1550" y="-5600" as="sourcePoint" />
+            <mxPoint x="-840" y="-5600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
