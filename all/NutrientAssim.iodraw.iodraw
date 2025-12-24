@@ -684,7 +684,7 @@
           <mxGeometry x="4520" y="-1790" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-82" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;&lt;span&gt;Xylem Parenchyma&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="11320" y="-1390" width="2200" height="400" as="geometry" />
+          <mxGeometry x="10970" y="-1390" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;Endodermis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5120" y="-1020" width="2610" height="400" as="geometry" />
@@ -794,7 +794,7 @@
           <mxGeometry x="4710" y="-561" width="2603.85" height="1950" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-132" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;container=0;strokeColor=#b46504;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="10830" y="-580" width="2603.85" height="1950" as="geometry" />
+          <mxGeometry x="10480" y="-580" width="2603.85" height="1950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
