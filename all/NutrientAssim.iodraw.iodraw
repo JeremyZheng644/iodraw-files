@@ -364,7 +364,7 @@
             <mxPoint x="-190" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-NJooUQGxTvs3JhmQF3-157" value="&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;-100 to -150 mv&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="C-NJooUQGxTvs3JhmQF3-157" value="&lt;div&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;-10 to -15 mV&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-440" y="1630" width="520" height="78.95" as="geometry" />
         </mxCell>
       </root>
