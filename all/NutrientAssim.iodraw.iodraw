@@ -1478,7 +1478,7 @@
           <mxGeometry x="-2410" y="3168.7" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-425" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;(Only at very high [Na&lt;sup style=&quot;font-size: 16px;&quot;&gt;+&lt;/sup&gt;]&lt;sub style=&quot;font-size: 16px;&quot;&gt;o&lt;/sub&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-3075.06" y="3110" width="205.06" height="78.95" as="geometry" />
+          <mxGeometry x="-2903" y="3161" width="205.06" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
