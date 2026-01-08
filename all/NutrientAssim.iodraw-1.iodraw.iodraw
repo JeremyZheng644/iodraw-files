@@ -2392,7 +2392,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-196" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Light, Carbohydrates&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-679.9999999999995" y="280" width="232.21" height="38.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-200" target="5U4R1dnqY248DligrYlA-48">
+        <mxCell id="5U4R1dnqY248DligrYlA-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-200" target="5U4R1dnqY248DligrYlA-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1944" y="940" />
@@ -2407,7 +2407,12 @@
           <mxGeometry x="-1870" y="826.9999999999999" width="299.05" height="38.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.405;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-202" target="5U4R1dnqY248DligrYlA-48">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1721" y="960" />
+              <mxPoint x="-1137" y="960" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
