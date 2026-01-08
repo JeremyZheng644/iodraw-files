@@ -1724,6 +1724,9 @@
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-62" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;High-Affinity Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2581.1200000000003" y="2350" width="286.78" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-63" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Low-Affinity Phase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2576.78" y="2547.76" width="286.78" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
