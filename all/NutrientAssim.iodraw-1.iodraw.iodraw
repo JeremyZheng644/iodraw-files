@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="15677" dy="10670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="14990" dy="9670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1539,6 +1539,9 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.frontiersin.org/files/Articles/1351998/fpls-15-1351998-HTML/image_m/fpls-15-1351998-g002.jpg;" parent="nIjLyHWwJ4Qba_-Fn9xl-11" vertex="1">
           <mxGeometry x="3110.004546353066" y="-29.999577697419113" width="1200" height="898" as="geometry" />
         </mxCell>
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;NRT1.2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
+          <mxGeometry x="3780.004546353066" y="2420.000422302581" width="107.76" height="58.96" as="geometry" />
+        </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;NRT1.5&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="13819.999999999998" y="3240" width="107.76" height="58.96" as="geometry" />
         </mxCell>
@@ -1705,9 +1708,6 @@
               <mxPoint x="-2070" y="2181" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-49" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;NRT1.2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-2664.88" y="2730" width="107.76" height="58.96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
