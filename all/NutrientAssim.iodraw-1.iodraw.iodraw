@@ -2113,10 +2113,16 @@
           <mxGeometry x="-1460" y="2412.5299999999997" width="117.88" height="117.88" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-34" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1696.0800000000004" y="2532.85" width="63" height="63" as="geometry" />
+          <mxGeometry x="-1654.0300000000004" y="2517" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-35" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1686.0800000000004" y="2542.85" width="63" height="63" as="geometry" />
+          <mxGeometry x="-1579.3000000000004" y="2517" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-36" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1644.0300000000004" y="2527" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-37" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1569.3000000000004" y="2527" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
