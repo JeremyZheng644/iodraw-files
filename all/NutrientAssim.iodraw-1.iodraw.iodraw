@@ -1506,7 +1506,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-7" value="" style="group;rotation=90;strokeColor=#000000;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-7310" y="-6360" width="2740" height="4524.34" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-11" value=")" style="group;rotation=90;" parent="1" vertex="1" connectable="0">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-11" value=")" style="group;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6770.004546353066" y="-820.0004223025809" width="4524.34" height="3632.34" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;container=0;fontStyle=1;rotation=180;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="nIjLyHWwJ4Qba_-Fn9xl-11" vertex="1">
