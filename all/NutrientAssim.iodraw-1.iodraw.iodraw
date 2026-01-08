@@ -3222,8 +3222,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-579" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="4560" y="-5453.5" width="120" height="74.2" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-580" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gln&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="4466.999999999999" y="-5516.499999999999" width="63" height="63" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-580" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Glu&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="4473.499999999999" y="-5516.499999999999" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
