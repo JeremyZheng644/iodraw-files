@@ -25,8 +25,8 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-452" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;container=0;fontStyle=1;strokeColor=#82b366;direction=south;" parent="VxrQALXWMr3GyaJHTE5P-454" vertex="1">
           <mxGeometry x="243.52" y="260.78" width="9806.48" height="4969.8" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-61" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Photosynthesizing mesophylls&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-454">
-          <mxGeometry x="5910" y="390" width="3850" height="400" as="geometry" />
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-61" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Mesophylls&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="VxrQALXWMr3GyaJHTE5P-454">
+          <mxGeometry x="5870" y="380" width="3850" height="400" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-54" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5730" y="-7640" width="8320" height="5510" as="geometry" />
