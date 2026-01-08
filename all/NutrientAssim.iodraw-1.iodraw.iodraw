@@ -2911,8 +2911,9 @@
               <mxPoint x="990" y="515" />
               <mxPoint x="990" y="710" />
               <mxPoint x="1210" y="710" />
-              <mxPoint x="1210" y="546" />
-              <mxPoint x="1270" y="546" />
+              <mxPoint x="1210" y="620" />
+              <mxPoint x="1270" y="620" />
+              <mxPoint x="1270" y="617" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2961,7 +2962,7 @@
           <mxGeometry x="1000" y="690" width="190" height="74.2" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-462" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;NAD+&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;container=0;fontStyle=1;strokeColor=#10739e;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="472.69000000000005" width="73.58" height="73.58" as="geometry" />
+          <mxGeometry x="1286.42" y="580.0000000000001" width="73.58" height="73.58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
