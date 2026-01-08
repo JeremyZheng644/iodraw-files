@@ -2373,6 +2373,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-192" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Triose-P, Hexose-P&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-2050.7099999999996" y="438.95" width="232.21" height="38.95" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-193" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NR Phosphatase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-492.6700000000001" y="420.00000000000006" width="182.67" height="38.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
