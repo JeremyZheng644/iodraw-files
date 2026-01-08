@@ -127,7 +127,7 @@
           <mxGeometry x="4570.1" y="4671.4" width="2093.73" height="868.6" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-83" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Epidermis, Exodermis &amp;amp; Cortex&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1180" y="-1680" width="3660" height="400" as="geometry" />
+          <mxGeometry x="-1180" y="-1684" width="3660" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-81" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Casparian Strip&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="4530" y="4930" width="2200" height="400" as="geometry" />
@@ -2072,10 +2072,10 @@
           <mxGeometry x="1400" y="1760" width="680" height="400" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-410" y="-487.27" width="2491.5" height="1364.73" as="geometry" />
+          <mxGeometry x="-660" y="-624.21" width="2741.5" height="1501.67" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-16" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;Plastid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1401.5" y="-504.12" width="680" height="400" as="geometry" />
+          <mxGeometry x="1401.5" y="-610" width="680" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
