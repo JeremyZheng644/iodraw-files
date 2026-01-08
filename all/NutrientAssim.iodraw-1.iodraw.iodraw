@@ -2373,10 +2373,10 @@
         <mxCell id="5U4R1dnqY248DligrYlA-192" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Triose-P, Hexose-P&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-2050.7099999999996" y="438.95" width="232.21" height="38.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-193" target="5U4R1dnqY248DligrYlA-84">
+        <mxCell id="5U4R1dnqY248DligrYlA-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-193" target="5U4R1dnqY248DligrYlA-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-193" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;OPPP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-193" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;OPPP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=45;" vertex="1" parent="1">
           <mxGeometry x="3.749999999999952" y="580" width="182.67" height="38.95" as="geometry" />
         </mxCell>
       </root>
