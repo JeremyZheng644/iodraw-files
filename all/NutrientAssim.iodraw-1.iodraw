@@ -49,7 +49,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#D5E8D4;container=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54">
           <mxGeometry x="710.0017647058849" y="2990.0011746461623" width="881.56862745098" height="1208.695988475528" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-63" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Vascular Bundle Parenchyma&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-63" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Parenchyma&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54">
           <mxGeometry x="4320" y="420" width="3800" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TFPI4Gtbi1XE-iVD9CKZ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;container=0;fontStyle=1" parent="1" vertex="1">
@@ -659,7 +659,7 @@
           <mxGeometry x="4520" y="-1790" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-82" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;&lt;span&gt;&amp;nbsp;Parenchyma&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10970" y="-1390" width="2200" height="400" as="geometry" />
+          <mxGeometry x="11530" y="-1510" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;Endodermis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="5120" y="-1020" width="2610" height="400" as="geometry" />
