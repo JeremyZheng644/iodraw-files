@@ -1534,7 +1534,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-64" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Bacterial Symbiont&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
           <mxGeometry x="1430" y="2220" width="2000" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;container=0;fontStyle=1;rotation=180;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;container=0;fontStyle=1;rotation=180;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
           <mxGeometry x="892.17" y="-952.34" width="2740" height="2956" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE0FF;container=0;fontStyle=1;rotation=180;strokeColor=#000000;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
@@ -1579,7 +1579,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-48" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1840.0000000000005" y="2220" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-68" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Bacterial Symbiont&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-68" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Fungal Symbiont&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-5339.834546353066" y="-1570.0004223025808" width="2000" height="400" as="geometry" />
         </mxCell>
       </root>
