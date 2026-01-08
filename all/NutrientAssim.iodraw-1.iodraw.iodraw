@@ -3127,8 +3127,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.016;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-542" target="5U4R1dnqY248DligrYlA-541">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-545" value="&lt;font style=&quot;font-size: 37px;&quot;&gt;Leaf N starvation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-2437.4700000000003" y="-4588" width="425" height="78.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-545" value="&lt;font style=&quot;font-size: 39px;&quot;&gt;Primarily for glutamate deamination during dark/germination&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=39;" vertex="1" parent="1">
+          <mxGeometry x="-2437.47" y="-4588" width="707.47" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
