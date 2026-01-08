@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="14571" dy="9129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="14382" dy="8830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2591,14 +2591,6 @@
               <mxPoint x="5870" y="-4929" />
               <mxPoint x="5870" y="-5310" />
               <mxPoint x="5629" y="-5310" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-522" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-330" target="5U4R1dnqY248DligrYlA-514">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5742" y="-5150" />
-              <mxPoint x="4923" y="-5150" />
             </Array>
           </mxGeometry>
         </mxCell>
