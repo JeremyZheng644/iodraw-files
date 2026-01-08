@@ -2915,9 +2915,9 @@
           <mxGeometry x="1000" y="550" width="190.85" height="73" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-452" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gln&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1199.9999999999982" y="748.95" width="63" height="63" as="geometry" />
+          <mxGeometry x="889.9999999999982" y="740" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-453" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;2-OG&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-453" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;2-OG&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#ffcc99;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="874.23" y="620" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
