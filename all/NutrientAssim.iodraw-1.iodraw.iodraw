@@ -2361,8 +2361,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-187" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NR Kinase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-1810.88" y="440" width="182.67" height="38.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-188" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NR Kinase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-1800.88" y="450" width="182.67" height="38.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-188" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NR Phosphatase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-891.8800000000001" y="223.34" width="182.67" height="38.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
