@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="18508" dy="14597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="16716" dy="12066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2084,16 +2084,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="Kd-YtvIEFOwDq4YNNwHz-5" target="Kd-YtvIEFOwDq4YNNwHz-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1620" y="-2720" />
-              <mxPoint x="18590" y="-2720" />
-              <mxPoint x="18590" y="1210" />
-              <mxPoint x="-1555" y="1210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-22" target="VxrQALXWMr3GyaJHTE5P-139">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2431,7 +2421,7 @@
           <mxGeometry x="-1250" y="867.12" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-208" value="&lt;p style=&quot;line-height: 40%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Nitrate, Light, Sucrose, Cytokinin, clock&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-1860" y="836.9999999999999" width="299.05" height="38.95" as="geometry" />
+          <mxGeometry x="-880" y="1360.9099999999999" width="299.05" height="38.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
