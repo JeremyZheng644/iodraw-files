@@ -1990,8 +1990,8 @@
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-173" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Lysine-Histidine Transporters&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2889.17" y="1415.16" width="280.17" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-174" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Lysine-Histidine Transporters&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2857.17" y="1150" width="280.17" height="20" as="geometry" />
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-174" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Cation AA Transporters&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="1150" width="303" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
