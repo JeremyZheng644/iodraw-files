@@ -1800,8 +1800,8 @@
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-105" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Negative regulatory module for root-to-shoot nitrate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="18047.76" y="3460.06" width="642.24" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-106" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Negative regulatory module for root-to-shoot nitrate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="14707" y="3310.14" width="642.24" height="78.95" as="geometry" />
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-106" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Xylem-Loading for root-to-shoot nitrate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13300" y="3082.05" width="552.24" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
