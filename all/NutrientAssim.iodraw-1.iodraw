@@ -1568,8 +1568,8 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.frontiersin.org/files/Articles/1351998/fpls-15-1351998-HTML/image_m/fpls-15-1351998-g002.jpg;" vertex="1" parent="1">
           <mxGeometry x="-2469.63" y="414" width="1200" height="898" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-71" value="&lt;span style=&quot;font-size: 44px;&quot;&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;K&lt;sup style=&quot;font-size: 44px;&quot;&gt;+&lt;/sup&gt; starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="4610.55" width="287.68" height="78.95" as="geometry" />
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-71" value="&lt;span style=&quot;font-size: 44px;&quot;&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;N starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-2454.61" y="1720" width="287.68" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
