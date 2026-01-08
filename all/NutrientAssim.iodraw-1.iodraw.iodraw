@@ -2148,22 +2148,22 @@
           <mxGeometry x="-954.8800000000005" y="2499.9999999999995" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-53" value="" style="group;fontSize=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1570" y="680" width="510.37" height="204.91" as="geometry" />
+          <mxGeometry x="-1570" y="640" width="610" height="244.91" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-48" value="z" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;container=0;strokeColor=#36393d;fontStyle=1" vertex="1" parent="5U4R1dnqY248DligrYlA-53">
-          <mxGeometry x="16.73344262295082" width="493.6365573770492" height="204.91" as="geometry" />
+          <mxGeometry x="20" width="590" height="244.91" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-52" value="" style="group;fontSize=9;" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-53">
-          <mxGeometry y="33.466987873096244" width="503.6766229508197" height="152.2747948225879" as="geometry" />
+          <mxGeometry x="40" y="40.00000000000001" width="602" height="182" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-30" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;FAD&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;container=0;fontStyle=1;strokeColor=#10739e;" vertex="1" parent="5U4R1dnqY248DligrYlA-52">
-          <mxGeometry y="5.856722877791842" width="117.13409836065574" height="117.13409836065574" as="geometry" />
+          <mxGeometry y="7.000000000000001" width="139.99957068717094" height="139.99957068717094" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-50" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;Cyt b557&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;container=0;fontStyle=1;strokeColor=#10739e;" vertex="1" parent="5U4R1dnqY248DligrYlA-52">
-          <mxGeometry x="168.9575701639343" y="10.416599975501244" width="117.13409836065574" height="117.13409836065574" as="geometry" />
+          <mxGeometry x="201.93999999999983" y="12.450000000000047" width="139.99957068717094" height="139.99957068717094" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-51" value="&lt;span style=&quot;font-size: 28px;&quot;&gt;Molybdopterin&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;container=0;fontStyle=1;strokeColor=#10739e;" vertex="1" parent="5U4R1dnqY248DligrYlA-52">
-          <mxGeometry x="351.4022950819672" width="152.27432786885245" height="152.27432786885245" as="geometry" />
+          <mxGeometry x="420" width="181.99944189332223" height="181.99944189332223" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
