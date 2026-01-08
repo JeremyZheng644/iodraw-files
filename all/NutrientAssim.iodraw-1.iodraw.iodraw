@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="16336" dy="11630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="25568" dy="25070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1786,7 +1786,7 @@
           <mxGeometry x="17980" y="3366.01" width="107.76" height="58.96" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-105" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Negative regulatory module for root-to-shoot nitrate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="18047.76" y="3460.06" width="1232.24" height="78.95" as="geometry" />
+          <mxGeometry x="18047.76" y="3460.06" width="642.24" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-106" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Xylem-Loading for root-to-shoot nitrate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="13280" y="3112.05" width="552.24" height="78.95" as="geometry" />
