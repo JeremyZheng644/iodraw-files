@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="15182" dy="9950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="14852" dy="9470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2300,6 +2300,11 @@
         <mxCell id="5U4R1dnqY248DligrYlA-147" value="" style="group;fontSize=7;rotation=-180;" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-146">
           <mxGeometry x="292.13" y="62.83" width="583.22" height="200.57" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="5U4R1dnqY248DligrYlA-147" source="5U4R1dnqY248DligrYlA-148">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="227.2985714285728" y="191.4899999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-148" value="z" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;container=0;strokeColor=#0e8088;fontStyle=1;rotation=-180;" vertex="1" parent="5U4R1dnqY248DligrYlA-147">
           <mxGeometry x="-68.16853638795004" y="-37.771211570899396" width="393.0936868119525" height="200.57" as="geometry" />
         </mxCell>
@@ -2322,7 +2327,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-177" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;-P&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=#d6b656;" vertex="1" parent="5U4R1dnqY248DligrYlA-149">
-          <mxGeometry x="478.6236857925785" y="116.82527183793613" width="48.6" height="48.6" as="geometry" />
+          <mxGeometry x="488.6236857925785" y="110.42527183793612" width="48.6" height="48.6" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-153" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Nitrate Reductase (Inactive)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-147">
           <mxGeometry x="31.308734730899687" y="-56.091210345959624" width="240.78626207593808" height="64.65641051814953" as="geometry" />
