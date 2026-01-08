@@ -1868,8 +1868,8 @@
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-121" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Nitrate export from senescing leaves (via phloem)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="18008.88" y="-6180" width="961.12" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-129" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;High-Affinity NH4+ Transporter&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2900" y="1960" width="263.05" height="78.95" as="geometry" />
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-129" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;High-Affinity NO3- Transporter&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2890" y="1960" width="253.05" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="Kd-YtvIEFOwDq4YNNwHz-131" target="Kd-YtvIEFOwDq4YNNwHz-132">
           <mxGeometry relative="1" as="geometry" />
