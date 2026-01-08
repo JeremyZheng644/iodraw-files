@@ -1516,7 +1516,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-11" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-6770.004546353066" y="-820.0004223025809" width="4524.34" height="3632.34" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;container=0;fontStyle=1;rotation=180;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;container=0;fontStyle=1;rotation=180;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
           <mxGeometry x="892" y="2092.68" width="2740" height="1539.66" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE0FF;container=0;fontStyle=1;rotation=180;strokeColor=#000000;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
@@ -1534,7 +1534,7 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-64" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Bacterial Symbiont&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
           <mxGeometry x="1430" y="2220" width="2000" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;container=0;fontStyle=1;rotation=180;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;container=0;fontStyle=1;rotation=180;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
           <mxGeometry x="892.17" y="-952.34" width="2740" height="2956" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;container=0;fontStyle=1;rotation=180;strokeColor=#000000;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11">
