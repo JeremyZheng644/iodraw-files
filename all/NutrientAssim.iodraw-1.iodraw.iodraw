@@ -2768,7 +2768,6 @@
               <mxPoint x="18920" y="958" />
               <mxPoint x="18920" y="910" />
               <mxPoint x="19181" y="910" />
-              <mxPoint x="19181" y="972" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2792,13 +2791,12 @@
         <mxCell id="5U4R1dnqY248DligrYlA-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-386" target="5U4R1dnqY248DligrYlA-386">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-390" target="5U4R1dnqY248DligrYlA-391">
+        <mxCell id="5U4R1dnqY248DligrYlA-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-390" target="5U4R1dnqY248DligrYlA-391">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="18940" y="1060" />
               <mxPoint x="18940" y="930" />
               <mxPoint x="19182" y="930" />
-              <mxPoint x="19182" y="1008" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2806,7 +2804,7 @@
           <mxGeometry x="18820" y="1028.67" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-391" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gln&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="19250" y="971.5000000000001" width="63" height="63" as="geometry" />
+          <mxGeometry x="19150" y="1028.67" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-386" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;GS1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="18974.67" y="868.81" width="135.61" height="74.2" as="geometry" />
