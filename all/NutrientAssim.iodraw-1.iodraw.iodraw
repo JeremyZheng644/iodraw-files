@@ -1655,7 +1655,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1940" y="1630" />
-              <mxPoint x="-2579" y="1630" />
+              <mxPoint x="-2310" y="1630" />
+              <mxPoint x="-2310" y="2097" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1668,6 +1669,14 @@
               <mxPoint x="-1824" y="1670" />
               <mxPoint x="-2270" y="1670" />
               <mxPoint x="-2270" y="2097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kd-YtvIEFOwDq4YNNwHz-28" target="nIjLyHWwJ4Qba_-Fn9xl-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1780" y="1510" />
+              <mxPoint x="-1780" y="2097" />
             </Array>
           </mxGeometry>
         </mxCell>
