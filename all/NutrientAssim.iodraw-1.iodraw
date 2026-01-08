@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="15668" dy="15588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="16371" dy="15889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1544,7 +1544,7 @@
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="nIjLyHWwJ4Qba_-Fn9xl-11" source="nIjLyHWwJ4Qba_-Fn9xl-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4770.004546353068" y="3140.000422302581" as="targetPoint" />
+            <mxPoint x="4800.004546353066" y="3150.000422302581" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3900" y="3396" />
               <mxPoint x="3900" y="3150" />
@@ -1578,6 +1578,9 @@
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-30" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;High-Affinity Transporter&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2630.0000000000005" y="2362" width="658.47" height="78.95" as="geometry" />
+        </mxCell>
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-31" target="nIjLyHWwJ4Qba_-Fn9xl-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
