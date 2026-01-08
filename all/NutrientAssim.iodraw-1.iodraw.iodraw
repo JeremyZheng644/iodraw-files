@@ -2730,8 +2730,8 @@
             <mxPoint x="5345.079999999998" y="-4959.84" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-372" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;N&lt;sub&gt;2&lt;/sub&gt;O&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-386.3500000000004" y="990.4500000000002" width="63" height="63" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-372" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;N&lt;sub&gt;2&lt;/sub&gt;O&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-480.00000000000045" y="830.0000000000002" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
