@@ -1968,10 +1968,13 @@
           <mxGeometry x="-2669.9199999999996" y="1170" width="99.84" height="99.84" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-167" value="&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;Lys&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2764.25" y="1618.49" width="50.32" height="50.32" as="geometry" />
+          <mxGeometry x="-2774.25" y="1070.3200000000002" width="50.32" height="50.32" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-168" value="&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;Arg&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2820" y="1618.17" width="50.32" height="50.32" as="geometry" />
+          <mxGeometry x="-2830" y="1070" width="50.32" height="50.32" as="geometry" />
+        </mxCell>
+        <mxCell id="Kd-YtvIEFOwDq4YNNwHz-169" value="&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;Arg&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2820" y="1080" width="50.32" height="50.32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
