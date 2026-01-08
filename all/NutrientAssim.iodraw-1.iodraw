@@ -1578,13 +1578,12 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-44" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1835.2400000000005" y="2502.85" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-31" target="nIjLyHWwJ4Qba_-Fn9xl-44">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-31" target="nIjLyHWwJ4Qba_-Fn9xl-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2810" y="2422" />
               <mxPoint x="-2810" y="2260" />
-              <mxPoint x="-1900" y="2260" />
-              <mxPoint x="-1900" y="2534" />
+              <mxPoint x="-1840" y="2260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1612,7 +1611,7 @@
           <mxGeometry x="5" width="97.76" height="97.76" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-48" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1850.0000000000005" y="2270" width="63" height="63" as="geometry" />
+          <mxGeometry x="-1840.0000000000005" y="2220" width="63" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
