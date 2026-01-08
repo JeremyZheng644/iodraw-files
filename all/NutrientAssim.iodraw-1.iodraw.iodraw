@@ -2295,7 +2295,7 @@
           <mxGeometry x="459.9999999999996" y="650.0000000000001" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-146" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1550.0000000000002" y="165.6800000000001" width="875.3500000000001" height="384.3199999999999" as="geometry" />
+          <mxGeometry x="-1600.0000000000002" y="165.6800000000001" width="875.3500000000001" height="384.3199999999999" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-147" value="" style="group;fontSize=7;rotation=-180;" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-146">
           <mxGeometry x="292.13" y="62.83" width="583.22" height="200.57" as="geometry" />
@@ -2323,6 +2323,17 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-153" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Nitrate Reductase (Inactive)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-147">
           <mxGeometry x="31.308734730899687" y="-56.091210345959624" width="240.78626207593808" height="64.65641051814953" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-51" target="5U4R1dnqY248DligrYlA-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-154" target="5U4R1dnqY248DligrYlA-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-740" y="292" />
+              <mxPoint x="-740" y="736" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
