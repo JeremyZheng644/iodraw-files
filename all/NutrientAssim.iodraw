@@ -1523,13 +1523,13 @@
           <mxGeometry x="243.52209613852622" y="260.77538900820883" width="7824.1896695582045" height="4969.80468916519" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="6880" y="-7790" width="5610" height="7254.78" as="geometry" />
+          <mxGeometry x="7200" y="-7180" width="3090" height="3995.95" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;container=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-7">
-          <mxGeometry width="5610" height="7254.78" as="geometry" />
+          <mxGeometry width="3090" height="3995.95" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;container=0;fontStyle=1" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-7">
-          <mxGeometry x="275.97999999999956" y="234.77999999999975" width="5078.04" height="6820" as="geometry" />
+          <mxGeometry x="152.01037433155057" y="129.31737985162871" width="2796.995294117647" height="3756.4721466398705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
