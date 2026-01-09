@@ -3437,6 +3437,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-725" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Long-term storage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="5402.719999999999" y="-6010" width="204.56" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-726" value="&lt;p style=&quot;line-height: 18%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;High Gln, Pro content + Cys-rich termini&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="5402.72" y="-5692.45" width="110" height="12.45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
