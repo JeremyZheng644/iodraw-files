@@ -3317,8 +3317,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-664" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Lower N:C ratio&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="5370" y="-5309.84" width="170" height="27.69" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-666" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Lower N:C ratio&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="5380" y="-5299.84" width="170" height="27.69" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-666" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Lowest N:C ratio&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="4930" y="-5540.56" width="176.64" height="27.69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
