@@ -239,7 +239,7 @@
           <mxGeometry x="4830" y="11719.8" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-450" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;&lt;span&gt;Phloem&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="nIjLyHWwJ4Qba_-Fn9xl-54" vertex="1">
-          <mxGeometry x="6340.709999999999" y="6570" width="1240" height="400" as="geometry" />
+          <mxGeometry x="4919.999999999999" y="6500" width="1240" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Kd-YtvIEFOwDq4YNNwHz-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54" source="Kd-YtvIEFOwDq4YNNwHz-102" target="Kd-YtvIEFOwDq4YNNwHz-103">
           <mxGeometry relative="1" as="geometry" />
