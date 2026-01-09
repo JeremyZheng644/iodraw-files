@@ -3744,7 +3744,10 @@
           <mxGeometry x="-679.9999999999999" y="-4947.5" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-877" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Glycine Decarboxylase Complex (GDC)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="-5036.92" width="380" height="218.3" as="geometry" />
+          <mxGeometry x="-1220" y="-5036.92" width="340" height="236.92" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-878" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;PLP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-4924.02" width="130" height="84.02" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
