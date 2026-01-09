@@ -3528,7 +3528,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-789" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-62" target="5U4R1dnqY248DligrYlA-787">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-790" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Chloroplast Dismantling&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-790" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Chloroplast Dismantling + Autophagy&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2170" y="-4110" width="270" height="32.07" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-61" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Mesophylls&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
