@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="14540" dy="12703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="13590" dy="11226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="VxrQALXWMr3GyaJHTE5P-452" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;container=0;fontStyle=1;strokeColor=#82b366;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="5U4R1dnqY248DligrYlA-502" vertex="1">
           <mxGeometry x="243.51999999999998" y="260.77999999999975" width="9806.48" height="4969.8" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;container=0;strokeColor=#36393d;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="5U4R1dnqY248DligrYlA-502" vertex="1">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;container=0;strokeColor=#36393d;fontStyle=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="5U4R1dnqY248DligrYlA-502" vertex="1">
           <mxGeometry x="4550" y="1000" width="4870" height="2260" as="geometry" />
         </mxCell>
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-61" value="&lt;span style=&quot;font-size: 200px;&quot;&gt;Mesophylls&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="5U4R1dnqY248DligrYlA-502" vertex="1">
