@@ -3399,10 +3399,10 @@
           <mxGeometry y="40" width="430" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-694" value="&lt;p style=&quot;line-height: 18%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In cereals&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
-          <mxGeometry x="252.8799999999992" y="69.99999999999909" width="110" height="18.95" as="geometry" />
+          <mxGeometry x="252.8799999999992" y="89.99999999999909" width="110" height="18.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-718" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-728">
-          <mxGeometry x="222.87811367193262" y="130.0018872524879" width="211.00377265613588" height="154.07622549502412" as="geometry" />
+          <mxGeometry x="222.87811367193262" y="150.0018872524879" width="211.00377265613588" height="154.07622549502412" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-695" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Glutenin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;container=0;fontStyle=1;strokeColor=#d79b00;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=-15;" vertex="1" parent="5U4R1dnqY248DligrYlA-718">
           <mxGeometry x="-3.5881136719320423" y="17.03811274751206" width="135.61" height="30" as="geometry" />
@@ -3426,7 +3426,7 @@
           <mxGeometry x="46.41188632806796" y="41.51811274751162" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-724" value="&lt;p style=&quot;line-height: 18%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Prolamins&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
-          <mxGeometry x="252.8799999999992" y="97.54999999999927" width="110" height="18.95" as="geometry" />
+          <mxGeometry x="252.8799999999992" y="117.54999999999927" width="110" height="18.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-684" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Globulins&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
           <mxGeometry x="42.88000000000011" y="146.98999999999978" width="125" height="125" as="geometry" />
@@ -3438,7 +3438,7 @@
           <mxGeometry x="205.59999999999945" y="30" width="204.56" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-726" value="&lt;p style=&quot;line-height: 6%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;High Gln, Pro content 20 aa repeats + Cys-rich termini&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
-          <mxGeometry x="211.3800000000001" y="280" width="193" height="42.45" as="geometry" />
+          <mxGeometry x="150.0000000000001" y="281" width="193" height="42.45" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-729" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;TF&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="5340" y="-5680" width="47.12" height="47.12" as="geometry" />
