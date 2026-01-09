@@ -3260,13 +3260,13 @@
           <mxGeometry width="430" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-626" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Asn&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-641">
-          <mxGeometry x="107.89999999999964" y="129.31034482758622" width="63" height="63" as="geometry" />
+          <mxGeometry x="126.99999999999963" y="90.00034482758622" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-627" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Asp&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-641">
-          <mxGeometry x="107.89999999999964" y="215.17241379310346" width="63" height="63" as="geometry" />
+          <mxGeometry x="139.99999999999963" y="215.17241379310346" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-628" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Ala&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-641">
-          <mxGeometry x="185.39999999999964" y="150" width="63" height="63" as="geometry" />
+          <mxGeometry x="99.99999999999963" y="152.17" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-635" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Canavanine&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-641">
           <mxGeometry x="283.97000000000025" y="139.6551724137931" width="115" height="115" as="geometry" />
