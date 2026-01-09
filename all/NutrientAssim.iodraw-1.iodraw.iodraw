@@ -1670,10 +1670,10 @@
         <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-64" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;Bacterial Symbiont&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-4450.004546353066" y="1399.9995776974192" width="1110" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;container=0;fontStyle=1;rotation=180;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;container=0;fontStyle=1;rotation=180;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-5877.834546353066" y="-1772.340422302581" width="2740" height="2956" as="geometry" />
         </mxCell>
-        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;container=0;fontStyle=1;rotation=180;strokeColor=#000000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="nIjLyHWwJ4Qba_-Fn9xl-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;container=0;fontStyle=1;rotation=180;strokeColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-5753.834546353066" y="-1647.760422302581" width="2480.18" height="2687.28" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-702" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-67" target="Kd-YtvIEFOwDq4YNNwHz-84">
