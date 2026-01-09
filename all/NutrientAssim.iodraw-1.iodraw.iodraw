@@ -3606,7 +3606,7 @@
           <mxGeometry x="1543" y="-3360" width="107" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-828" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;RuBP&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1606.5" y="-5160" width="90" height="90" as="geometry" />
+          <mxGeometry x="1620" y="-5205.8" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-831" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2160" y="-5140" width="650" height="530" as="geometry" />
@@ -3618,7 +3618,7 @@
           <mxGeometry x="85" y="-149.66" width="530" height="530" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-833" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;O&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1626.5" y="-4840" width="70" height="70" as="geometry" />
+          <mxGeometry x="1754" y="-5140" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
