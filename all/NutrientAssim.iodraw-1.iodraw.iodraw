@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="30230" dy="19940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="48770" dy="31610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -637,7 +637,7 @@
           <mxGeometry x="3165.98" y="-1169.56" width="2254.02" height="5801.74" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="5850" y="-1670" width="2400" height="6720" as="geometry" />
+          <mxGeometry x="5850" y="-1670" width="3140" height="6720" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;container=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="5160" y="1960" width="883.14" height="740" as="geometry" />
@@ -649,7 +649,7 @@
           <mxGeometry x="3210" y="-1790" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-82" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;&lt;span&gt;&amp;nbsp;Parenchyma&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="6310" y="-1510" width="2200" height="400" as="geometry" />
+          <mxGeometry x="6940" y="-1510" width="2200" height="400" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 200px;&quot;&gt;Endodermis&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3500" y="-1020" width="1540" height="236.02" as="geometry" />
