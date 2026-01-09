@@ -3720,7 +3720,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-871" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;2-OG&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-81.41" y="-5140" width="73" height="73" as="geometry" />
+          <mxGeometry x="-240" y="-5140" width="73" height="73" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-873" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-872" target="5U4R1dnqY248DligrYlA-871">
           <mxGeometry relative="1" as="geometry">
