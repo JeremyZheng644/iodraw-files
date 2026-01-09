@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="15372" dy="10168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="15948" dy="10981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2888,6 +2888,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-443" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;NADH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;container=0;fontStyle=1;strokeColor=#10739e;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="779.9999999999998" y="500.0000000000001" width="90.16" height="90.16" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-613" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-444" target="5U4R1dnqY248DligrYlA-509">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-444" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ff9933&quot;&gt;Labeled first when plant is supplied with 15N-NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="797.12" y="841.9500000000002" width="230" height="18.95" as="geometry" />
         </mxCell>
@@ -3289,10 +3292,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-611" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;ATP&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;container=0;fontStyle=1;strokeColor=#B20000;fontColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1809.9999999999966" y="453" width="64.77" height="64.77" as="geometry" />
+          <mxGeometry x="1368.9399999999966" y="-15.549999999999962" width="64.77" height="64.77" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-612" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;ADP&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;container=0;fontStyle=1;strokeColor=#BD7000;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1453" y="456.00000000000006" width="67" height="67" as="geometry" />
+          <mxGeometry x="1011.94" y="-12.549999999999905" width="67" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-614" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ff9933&quot;&gt;Labeled first when plant is supplied with 15N-NO3&lt;sup&gt;-&lt;/sup&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="807.12" y="851.9500000000002" width="230" height="18.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
