@@ -3888,14 +3888,6 @@
         <mxCell id="5U4R1dnqY248DligrYlA-933" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;HyPyr&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="330" y="-5480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-940" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-935" target="5U4R1dnqY248DligrYlA-937">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="-5313" />
-              <mxPoint x="500" y="-5362" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-935" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NAD&lt;sup&gt;+&lt;/sup&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;container=0;fontStyle=1;strokeColor=#6c8ebf;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="362.89" y="-5340" width="110" height="54.5" as="geometry" />
         </mxCell>
