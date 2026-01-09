@@ -3513,8 +3513,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-782" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;(Loads Embryo)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="13460" y="-5940" width="324.12" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-783" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;container=0;strokeColor=#36393d;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="-4560.82" width="1819.84" height="1000.6" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-783" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;container=0;strokeColor=#82b366;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="-4340" width="1669.84" height="779.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
