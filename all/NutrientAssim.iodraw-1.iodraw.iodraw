@@ -3396,7 +3396,7 @@
           <mxGeometry x="5160" y="-6070" width="433.8818863280685" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-680" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
-          <mxGeometry y="8.960000000000036" width="430" height="331.04" as="geometry" />
+          <mxGeometry y="40" width="430" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-694" value="&lt;p style=&quot;line-height: 18%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In cereals&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="5U4R1dnqY248DligrYlA-728">
           <mxGeometry x="252.8799999999992" y="69.99999999999909" width="110" height="18.95" as="geometry" />
@@ -3441,7 +3441,7 @@
           <mxGeometry x="211.3800000000001" y="280" width="193" height="42.45" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-729" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;TF&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="4740" y="-5670" width="47.12" height="47.12" as="geometry" />
+          <mxGeometry x="5340" y="-5680" width="47.12" height="47.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
