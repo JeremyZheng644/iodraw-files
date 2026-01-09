@@ -3889,10 +3889,13 @@
           <mxGeometry x="420" y="-5587.42" width="110" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-936" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Hydroxypyruvate Reductase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="489.99999999999994" y="-5477.56" width="253.42" height="130" as="geometry" />
+          <mxGeometry x="520" y="-5478.06" width="253.42" height="130" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-937" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NADH&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;container=0;fontStyle=1;strokeColor=#6c8ebf;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="631.94" y="-5595.06" width="110" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-938" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;HyPyr&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="449.55" y="-5440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
