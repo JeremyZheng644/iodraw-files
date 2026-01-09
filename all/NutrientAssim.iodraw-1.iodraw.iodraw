@@ -3282,6 +3282,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-638" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Short-term storage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="5U4R1dnqY248DligrYlA-641">
           <mxGeometry x="190" width="204.56" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-644" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 22px;&quot;&gt;Loss-of-function gs2 mutants die under photorespiratory conditions due to NH4+ accumulation&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="4820.8" y="-5690" width="441.33" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
