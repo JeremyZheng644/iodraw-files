@@ -3701,7 +3701,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-862" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Catalase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="632.03" y="-5166.070000000001" width="146.22" height="85.52" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-864" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;H&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-864" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;HO&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="562.0300000000002" y="-5285.15" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
