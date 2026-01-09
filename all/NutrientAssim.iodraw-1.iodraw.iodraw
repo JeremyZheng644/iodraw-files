@@ -818,16 +818,16 @@
         <mxCell id="d9SsAvD0iZe556LONDtf-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="1020" width="4970" height="3020" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-46" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Legend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-46" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Legend&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="660" y="111.85185185185185" width="1770" height="302" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-49" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Mutation / Knockdown leads to ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-49" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Mutation / Knockdown leads to ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="1130" y="2034.585185185185" width="3250" height="302" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="630" y="1152.0740740740741" width="3250" height="302" as="geometry" />
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry y="1598.362962962963" width="3250" height="302" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" edge="1">
@@ -858,7 +858,7 @@
             <mxPoint x="5472" y="2210.751851851852" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9SsAvD0iZe556LONDtf-70" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Transport&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="d9SsAvD0iZe556LONDtf-70" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Transport&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry y="738.2222222222222" width="3250" height="302" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-71" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" edge="1">
@@ -867,7 +867,7 @@
             <mxPoint x="5480" y="861.2592592592592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VxrQALXWMr3GyaJHTE5P-13" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Experimental Evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
+        <mxCell id="VxrQALXWMr3GyaJHTE5P-13" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Arial&quot;&gt;Experimental Evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=28;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="650" y="2519.995925925926" width="3250" height="302" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-29" value="" style="group" parent="VxrQALXWMr3GyaJHTE5P-32" vertex="1" connectable="0">
