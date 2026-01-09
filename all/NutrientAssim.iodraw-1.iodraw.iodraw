@@ -843,7 +843,7 @@
           <mxGeometry x="1130" y="2034.585185185185" width="3250" height="302" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="VxrQALXWMr3GyaJHTE5P-32" vertex="1">
-          <mxGeometry x="630" y="1152.0740740740741" width="3250" height="302" as="geometry" />
+          <mxGeometry x="1650" y="1152.07" width="2230" height="207.22" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-51" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Inhibition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="VxrQALXWMr3GyaJHTE5P-32" vertex="1">
           <mxGeometry y="1598.362962962963" width="3250" height="302" as="geometry" />
@@ -877,7 +877,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-70" value="&lt;font style=&quot;font-size: 200px;&quot; face=&quot;Arial&quot;&gt;Transport&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="VxrQALXWMr3GyaJHTE5P-32" vertex="1">
-          <mxGeometry y="738.2222222222222" width="3250" height="302" as="geometry" />
+          <mxGeometry x="1090" y="840" width="1230" height="114.3" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-71" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=35;fontStyle=1" parent="VxrQALXWMr3GyaJHTE5P-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
