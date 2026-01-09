@@ -822,7 +822,7 @@
           <mxGeometry x="332.31385642737894" y="56.31777777777777" width="891.2053422370618" height="152.058" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-49" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 41px;&quot;&gt;Mutation / Knockdown leads to ...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=41;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
-          <mxGeometry x="568.9616026711186" y="1024.4203777777775" width="1636.3939899833056" height="152.058" as="geometry" />
+          <mxGeometry x="730" y="1024.42" width="755.36" height="152.06" as="geometry" />
         </mxCell>
         <mxCell id="d9SsAvD0iZe556LONDtf-50" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 41px;&quot;&gt;Activation / Promotion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=41;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
           <mxGeometry x="317.2086811352254" y="580.0731111111111" width="1636.3939899833056" height="152.058" as="geometry" />
@@ -868,7 +868,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-13" value="&lt;font face=&quot;Arial&quot; style=&quot;font-size: 41px;&quot;&gt;Experimental Evidence&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=41;" parent="d9SsAvD0iZe556LONDtf-73" vertex="1">
-          <mxGeometry x="327.27879799666107" y="1268.826293061074" width="1636.3939899833056" height="152.058" as="geometry" />
+          <mxGeometry x="1130" y="1268.83" width="833.67" height="77.47" as="geometry" />
         </mxCell>
         <mxCell id="VxrQALXWMr3GyaJHTE5P-29" value="" style="group" parent="VxrQALXWMr3GyaJHTE5P-32" vertex="1" connectable="0">
           <mxGeometry x="2426.89816360601" y="1251.2057284768212" width="276.9282136894825" height="197.87680132450328" as="geometry" />
