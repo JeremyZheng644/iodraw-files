@@ -3276,8 +3276,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-637" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In Legumes&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="4791.47" y="-5891.500000000001" width="110" height="18.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-638" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;Plastid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="5230" y="-6652" width="680" height="400" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-638" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Short-term storage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4783.97" y="-6310" width="680" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
