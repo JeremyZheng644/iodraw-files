@@ -3619,8 +3619,14 @@
         <mxCell id="5U4R1dnqY248DligrYlA-831" value="" style="group;strokeWidth=5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2160" y="-5090" width="588.68" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-830" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeWidth=7;" vertex="1" parent="5U4R1dnqY248DligrYlA-831">
+        <mxCell id="5U4R1dnqY248DligrYlA-977" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-831">
           <mxGeometry x="76.98123076923076" y="-90.56603773584906" width="435.0249056603773" height="435.0249056603773" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-830" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeWidth=7;" vertex="1" parent="5U4R1dnqY248DligrYlA-977">
+          <mxGeometry width="435.0249056603773" height="435.0249056603773" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-829" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;CBB Cycle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-977">
+          <mxGeometry x="22.358769230769383" y="181.73603773584915" width="390" height="64.46" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-833" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;O&lt;sub&gt;2&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="2017.68" y="-4930.55" width="70" height="70" as="geometry" />
@@ -4001,9 +4007,6 @@
               <mxPoint x="1960" y="-5252" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-829" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;CBB Cycle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="-4810" width="390" height="64.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
