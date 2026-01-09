@@ -3662,7 +3662,7 @@
           <mxGeometry x="1481.5" y="-4960" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-843" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BASS6 &amp;amp; PLGG1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-5000" width="157" height="130" as="geometry" />
+          <mxGeometry x="1140" y="-4981" width="157" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
