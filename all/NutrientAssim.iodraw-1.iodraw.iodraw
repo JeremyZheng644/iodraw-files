@@ -3327,7 +3327,7 @@
           <mxGeometry x="5197.119999999999" y="-6001.04" width="430" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-684" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Globulins&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="5250.159999999999" y="-5865" width="115" height="115" as="geometry" />
+          <mxGeometry x="5250.16" y="-5865" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-685" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In Legumes / Potatoes&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="5257.659999999999" y="-5900.000000000001" width="110" height="18.95" as="geometry" />
@@ -3354,7 +3354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-693" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Prolamins&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="5409.999999999999" y="-5865" width="115" height="115" as="geometry" />
+          <mxGeometry x="5410" y="-5865" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-694" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;In Legumes / Potatoes&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="5417.499999999999" y="-5900.000000000001" width="110" height="18.95" as="geometry" />
