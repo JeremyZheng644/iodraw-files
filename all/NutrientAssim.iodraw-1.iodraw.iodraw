@@ -4297,9 +4297,6 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1107" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;P-type H&lt;sup&gt;+&lt;/sup&gt;-ATPase&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2898.01" y="-970" width="268.01" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1119" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-2544.83" y="-1570.000000000001" width="51.94" height="51.94" as="geometry" />
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1123" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-2461.94" y="-461.94000000000085" width="51.94" height="51.94" as="geometry" />
         </mxCell>
@@ -4365,6 +4362,9 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1135" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Organic Acids&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-2500" y="-1308.46" width="107.22" height="107.22" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1119" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-2404.47" y="-1280.8200000000008" width="51.94" height="51.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
