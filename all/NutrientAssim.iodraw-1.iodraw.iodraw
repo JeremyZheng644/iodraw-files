@@ -4570,7 +4570,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1292" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Upregulation of Glycolytic pathway -&amp;gt; Increased [malate] &amp;amp; [citrate]&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Down regulation of TCA cycle -&amp;gt; Increased [citrate]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;Down regulation of ACL -&amp;gt; Decreased breakdown of cytosolic citrate&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2406.56" y="-1041.73" width="616.56" height="171.73" as="geometry" />
+          <mxGeometry x="-2370.32" y="-1071.39" width="980" height="171.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
