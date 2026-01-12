@@ -5093,6 +5093,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1501" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OsVPE1/2-double mutants shows impaired growth &amp;amp; retainment of Pi in vacuoles (31P NMR experiment)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1829.46" width="290" height="49.52" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1504" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Xylem-Loading for root-to-shoot phosphate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7019.999999999998" y="55.94000000000034" width="552.24" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
