@@ -4514,8 +4514,13 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1276" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Ligand Exchange&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3288.01" y="-1000" width="218.01" height="28.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.002;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1136" target="C-NJooUQGxTvs3JhmQF3-132">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-1277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=13;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1136">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3300" y="-1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1278" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Dissolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3220" y="-1120" width="168.18" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
