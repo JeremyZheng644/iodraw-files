@@ -425,7 +425,7 @@
           <mxGeometry x="500" y="4020" width="48.7" height="48.7" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1505" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Shoot-to-Root phosphate remobilization occurs during local root phosphate deficiency. Split Root Experiment&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54">
-          <mxGeometry x="3770" y="7250" width="530" height="180" as="geometry" />
+          <mxGeometry x="3790" y="7678.7" width="530" height="180" as="geometry" />
         </mxCell>
         <mxCell id="C-NJooUQGxTvs3JhmQF3-62" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFE6CC%3BstrokeColor%3D%23FFE6CC%3Bcontainer%3D0%3BfontStyle%3D1%3Brotation%3D90%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2214580.003529411766%22%20y%3D%22-1609.9988253538377%22%20width%3D%22883.1372549019604%22%20height%3D%221208.695988475528%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;container=0;fontStyle=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="9730" y="-1684" width="645.04" height="375.54" as="geometry" />
@@ -5095,9 +5095,6 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1501" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font color=&quot;#ff9933&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OsVPE1/2-double mutants shows impaired growth &amp;amp; retainment of Pi in vacuoles (31P NMR experiment)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-260" y="1829.46" width="290" height="49.52" as="geometry" />
-        </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1504" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Xylem-Loading for root-to-shoot phosphate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="9439.999999999998" y="-168.94999999999965" width="552.24" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
