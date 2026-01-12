@@ -4512,7 +4512,10 @@
           <mxGeometry x="-2669.92" y="-1057" width="183.97" height="81.23" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1276" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Ligand Exchange&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3320" y="-1060" width="248.01" height="28.95" as="geometry" />
+          <mxGeometry x="-3288.01" y="-1000" width="218.01" height="28.95" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.002;entryY=0.466;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1136" target="C-NJooUQGxTvs3JhmQF3-132">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
