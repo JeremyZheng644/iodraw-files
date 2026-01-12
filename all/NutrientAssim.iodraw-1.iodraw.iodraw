@@ -4430,9 +4430,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="Kd-YtvIEFOwDq4YNNwHz-132" target="5U4R1dnqY248DligrYlA-1243">
+        <mxCell id="5U4R1dnqY248DligrYlA-1251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="Kd-YtvIEFOwDq4YNNwHz-132" target="5U4R1dnqY248DligrYlA-1243">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-2438" y="1833" />
               <mxPoint x="-2438" y="1190" />
               <mxPoint x="2597" y="1190" />
               <mxPoint x="2597" y="2623" />
