@@ -4720,8 +4720,8 @@
             <Array as="points">
               <mxPoint x="-1444" y="-280" />
               <mxPoint x="-740" y="-280" />
-              <mxPoint x="-740" y="1450" />
-              <mxPoint x="89" y="1450" />
+              <mxPoint x="-740" y="1380" />
+              <mxPoint x="89" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4730,8 +4730,8 @@
             <Array as="points">
               <mxPoint x="-1444" y="-280" />
               <mxPoint x="-740" y="-280" />
-              <mxPoint x="-740" y="1450" />
-              <mxPoint x="279" y="1450" />
+              <mxPoint x="-740" y="1380" />
+              <mxPoint x="279" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5030,7 +5030,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1472" value="&lt;span style=&quot;font-size: 44px;&quot;&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;Cytosolic P Repletion&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-968.12" y="1488.96" width="476.23" height="80" as="geometry" />
+          <mxGeometry x="-968.12" y="1410" width="476.23" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1477" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;P&lt;sub&gt;i&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1440" width="74.39" height="74.39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
