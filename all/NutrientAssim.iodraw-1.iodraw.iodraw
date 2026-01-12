@@ -4582,6 +4582,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1297" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Wall Stiffening&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3098.12" y="-1180" width="208.12" height="28.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
