@@ -4588,8 +4588,16 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1298" value="&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of Glycolytic pathway -&amp;gt; Increased [malate] &amp;amp; [citrate]&lt;/font&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of CS &amp;amp; Downregulation of the rest of TCA cycle -&amp;gt; Increased [citrate]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Downregulation of ACL -&amp;gt; Decreased breakdown of cytosolic citrate&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2208.35" y="-370.92999999999995" width="1084.21" height="171.73" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1299" target="5U4R1dnqY248DligrYlA-1292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1464" y="-850" />
+              <mxPoint x="-1607" y="-850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1299" value="P starvation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
-          <mxGeometry x="-2108.67" y="-10" width="287.68" height="78.95" as="geometry" />
+          <mxGeometry x="-1607.68" y="-680" width="287.68" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
