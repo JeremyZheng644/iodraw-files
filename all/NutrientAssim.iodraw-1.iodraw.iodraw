@@ -4547,7 +4547,10 @@
           <mxGeometry x="-4391" y="-424.74" width="299.13" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1284" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Secretory Phospho-hydrolases&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-2860" y="-300.0000000000001" width="176.17" height="176.17" as="geometry" />
+          <mxGeometry x="-3040" y="-310.0000000000001" width="176.17" height="176.17" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1285" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Organic Phosphorous (P esters)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-3769.83" y="-14.32000000000005" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
