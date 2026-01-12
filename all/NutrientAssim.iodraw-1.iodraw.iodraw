@@ -4538,12 +4538,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1260" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Ureides (In tropical legumes)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="5U4R1dnqY248DligrYlA-1255">
           <mxGeometry y="264" width="552.24" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1243" target="5U4R1dnqY248DligrYlA-1260">
+        <mxCell id="5U4R1dnqY248DligrYlA-1261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1457" target="5U4R1dnqY248DligrYlA-1260">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="10130" y="2623" />
-              <mxPoint x="10130" y="-3977" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1260" target="5U4R1dnqY248DligrYlA-330">
@@ -4968,14 +4965,24 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1416" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;&quot;&gt;At&lt;/i&gt;PHT1;2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;container=0;fontStyle=1;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="6920" y="-140" width="117.88" height="117.88" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1457" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFE6CC%3BstrokeColor%3D%23FFE6CC%3Bcontainer%3D0%3BfontStyle%3D1%3Brotation%3D90%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2214580.003529411766%22%20y%3D%22-1609.9988253538377%22%20width%3D%22883.1372549019604%22%20height%3D%221208.695988475528%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;container=0;fontStyle=1;rotation=90;arcSize=23;" vertex="1" parent="1">
-          <mxGeometry x="9740" y="-1670" width="645.04" height="347.46" as="geometry" />
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1446" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Ub&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="7306" y="-200.9999999999995" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1447" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Xylem-Loading for root-to-shoot phosphate transport&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="7009.999999999998" y="45.94000000000034" width="552.24" height="78.95" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1458" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1243" target="5U4R1dnqY248DligrYlA-1457">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8183" y="2623" as="sourcePoint" />
+            <mxPoint x="6732" y="-3977" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10130" y="2623" />
+              <mxPoint x="10130" y="-3977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1457" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23FFE6CC%3BstrokeColor%3D%23FFE6CC%3Bcontainer%3D0%3BfontStyle%3D1%3Brotation%3D90%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2214580.003529411766%22%20y%3D%22-1609.9988253538377%22%20width%3D%22883.1372549019604%22%20height%3D%221208.695988475528%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#FFE6CC;container=0;fontStyle=1;rotation=90;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-1657.73" width="645.04" height="347.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
