@@ -4817,6 +4817,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1371" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-2480.000000000001" y="290.3399999999996" width="51.94" height="51.94" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1364" target="5U4R1dnqY248DligrYlA-1411">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1364" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;i&gt;Os&lt;/i&gt;PHT1;9/10&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;container=0;fontStyle=1;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="-2680.53" y="230" width="117.88" height="117.88" as="geometry" />
         </mxCell>
@@ -4861,6 +4864,9 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1327" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i style=&quot;&quot;&gt;At&lt;/i&gt;PHT1;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;container=0;fontStyle=1;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="-2680.53" y="-80" width="117.88" height="117.88" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1411" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;OsDUR3 supports urea uptake in Xenopus oocytes &amp;amp; increases Arabidopsis growth on urea as the sole N source&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="-2529.9999999999995" y="400.56" width="946.12" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
