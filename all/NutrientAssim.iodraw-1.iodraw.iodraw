@@ -4633,6 +4633,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1318" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Defective in root hair defective (rhd) mutants&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="-598.02" y="-656.66" width="573.97" height="51.05" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1321" value="AtPHR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-1124.14" y="-492.66999999999996" width="287.68" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
