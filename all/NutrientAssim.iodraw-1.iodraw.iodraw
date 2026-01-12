@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="13373" dy="12938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="11947" dy="10604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4571,6 +4571,9 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1292" value="&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of Glycolytic pathway -&amp;gt; Increased [malate] &amp;amp; [citrate]&lt;/font&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of CS &amp;amp; Downregulation of the rest of TCA cycle -&amp;gt; Increased [citrate]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Downregulation of ACL -&amp;gt; Decreased breakdown of cytosolic citrate&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2420" y="-1080" width="1084.21" height="171.73" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1294" value="&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of Glycolytic pathway -&amp;gt; Increased [malate] &amp;amp; [citrate]&lt;/font&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of CS &amp;amp; Downregulation of the rest of TCA cycle -&amp;gt; Increased [citrate]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Downregulation of ACL -&amp;gt; Decreased breakdown of cytosolic citrate&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2410" y="-1070" width="1084.21" height="171.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
