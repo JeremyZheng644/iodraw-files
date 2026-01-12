@@ -4588,6 +4588,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1298" value="&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of Glycolytic pathway -&amp;gt; Increased [malate] &amp;amp; [citrate]&lt;/font&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Upregulation of CS &amp;amp; Downregulation of the rest of TCA cycle -&amp;gt; Increased [citrate]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 27px;&quot;&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 27px;&quot;&gt;Downregulation of ACL -&amp;gt; Decreased breakdown of cytosolic citrate&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2208.35" y="-370.92999999999995" width="1084.21" height="171.73" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1299" value="&lt;span style=&quot;font-size: 44px;&quot;&gt;&lt;span style=&quot;font-size: 44px;&quot;&gt;K&lt;sup style=&quot;font-size: 44px;&quot;&gt;+&lt;/sup&gt; starvation&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="4610.55" width="287.68" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
