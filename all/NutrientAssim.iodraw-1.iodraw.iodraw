@@ -5259,7 +5259,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1563" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GSSO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;container=0;fontStyle=1;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="5117.09" y="-6130" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1558" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;APS Kinase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-1558" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;APS sulfo-transferase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="5220" y="-6254" width="149.85" height="126" as="geometry" />
         </mxCell>
       </root>
