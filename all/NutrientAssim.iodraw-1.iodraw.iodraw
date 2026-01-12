@@ -4239,8 +4239,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1073" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Phytate&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="500" y="-120" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1074" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;PO4&lt;/span&gt;&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;&lt;sup&gt;-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="390" y="37.11" width="82.89" height="82.89" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-1074" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;HPO4&lt;/span&gt;&lt;span style=&quot;font-size: 20.8333px;&quot;&gt;&lt;sup&gt;-2&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="37.11" width="92.89" height="92.89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
