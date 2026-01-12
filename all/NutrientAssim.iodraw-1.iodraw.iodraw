@@ -4572,6 +4572,15 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1297" target="5U4R1dnqY248DligrYlA-1303">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1297" target="5U4R1dnqY248DligrYlA-1304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1297" target="5U4R1dnqY248DligrYlA-1305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1297" target="5U4R1dnqY248DligrYlA-1311">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1297" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;RSA modifications&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-860" y="-900.82" width="260" height="28.95" as="geometry" />
         </mxCell>
@@ -4616,7 +4625,7 @@
           <mxGeometry x="1515.73949379004" y="-4785.498612234144" width="44.76" height="44.76" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1311" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Auxin-mediated trichoplast differentiation &amp;amp; proliferation&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-556.03" y="-764.38" width="417.94" height="51.05" as="geometry" />
+          <mxGeometry x="-560" y="-764.38" width="417.94" height="51.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
