@@ -4598,6 +4598,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1299" target="5U4R1dnqY248DligrYlA-1297">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1299" target="5U4R1dnqY248DligrYlA-1321">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1299" value="P starvation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-1134.38" y="-694.56" width="287.68" height="78.95" as="geometry" />
         </mxCell>
@@ -4633,7 +4636,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1318" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Defective in root hair defective (rhd) mutants&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="-598.02" y="-656.66" width="573.97" height="51.05" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1321" value="&lt;i&gt;At&lt;/i&gt;PHR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-1321" value="&lt;i&gt;At&lt;/i&gt;PHR1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;" vertex="1" parent="1">
           <mxGeometry x="-1124.14" y="-492.66999999999996" width="287.68" height="78.95" as="geometry" />
         </mxCell>
       </root>
