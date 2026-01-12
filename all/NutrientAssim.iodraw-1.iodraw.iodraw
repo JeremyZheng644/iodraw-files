@@ -4534,8 +4534,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1279" target="5U4R1dnqY248DligrYlA-1095">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1279" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Organic Phosphorous&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-4050" y="-827" width="188.88" height="188.88" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-1279" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Organic Phosphorous (P esters)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#e3c800;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-4050" y="-821" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.479;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="nIjLyHWwJ4Qba_-Fn9xl-65" target="5U4R1dnqY248DligrYlA-1279">
           <mxGeometry relative="1" as="geometry">
