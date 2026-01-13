@@ -6392,7 +6392,7 @@
           <mxGeometry y="92.2" width="198.03" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2128" value="Fenton Process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="5250" width="278.28" height="95.7" as="geometry" />
+          <mxGeometry x="1380" y="5250" width="180" height="61.9" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2130" value="Cell wall loosening during growth &amp;amp; abscission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="1280" y="5445.969999999999" width="430" height="68.06" as="geometry" />
