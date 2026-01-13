@@ -6306,7 +6306,7 @@
           <mxGeometry x="287.22999999999996" y="5290" width="640" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1998" value="YS1/YSL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="5083.61" width="116.65" height="116.65" as="geometry" />
+          <mxGeometry x="1087" y="5083.61" width="116.65" height="116.65" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1999" value="&lt;div&gt;&lt;i&gt;At&lt;/i&gt;IRT1/2 complements yeast Fe&lt;sup&gt;2+ &lt;/sup&gt;uptake mutant&lt;/div&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;i&gt;At&lt;/i&gt;IRT1/2 induced in roots 1d after Fe-&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;IRT1 more quickly repressed after Fe repletion (Immunoblot evidence)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="1510" y="4179.85" width="693.58" height="164.18" as="geometry" />
@@ -6388,9 +6388,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-4335" y="5630" />
-              <mxPoint x="1167" y="5630" />
+              <mxPoint x="1117" y="5630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2030" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2027" target="5U4R1dnqY248DligrYlA-1998">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
