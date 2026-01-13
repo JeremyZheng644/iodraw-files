@@ -7140,8 +7140,8 @@
         <mxCell id="UkON9byD9si17dHemA0t-28" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BOR 1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2275" y="4833.34" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-31" value="&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;NIP5;1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="2055" y="5196.65" width="120" height="60" as="geometry" />
+        <mxCell id="UkON9byD9si17dHemA0t-31" value="&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;NIP5;1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="5067.41" width="95" height="126.65" as="geometry" />
         </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-32" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="2275" y="3212.5" width="60" height="60" as="geometry" />
