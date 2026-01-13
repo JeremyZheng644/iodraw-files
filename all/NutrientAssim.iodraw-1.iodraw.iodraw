@@ -6488,6 +6488,14 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2160" value="Fe(III)-Citrate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="5U4R1dnqY248DligrYlA-2156">
           <mxGeometry y="90" width="216.73" height="48.95" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2144" target="5U4R1dnqY248DligrYlA-2158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3970" y="2388" />
+              <mxPoint x="3970" y="452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
