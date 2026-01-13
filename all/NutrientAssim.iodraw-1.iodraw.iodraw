@@ -5812,8 +5812,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1746" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Associate with CW pectin&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-3290" y="3910" width="360" height="59.69" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1747" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;container=0;fontStyle=1;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2156.98" y="3175.1199999999994" width="80" height="80" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-1747" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFD966;container=0;fontStyle=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2156.98" y="3175.12" width="123.02" height="123.02" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
