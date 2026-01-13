@@ -5739,6 +5739,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1717" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;3+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="727.1200000000001" y="2327.53" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1719" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;Phytate-Fe Chelate&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="363" y="2472" width="302.67" height="38.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
