@@ -6413,14 +6413,14 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2035" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Iron(III)-MAs&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=25;" vertex="1" parent="5U4R1dnqY248DligrYlA-2031">
           <mxGeometry y="142.15000000000097" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2039" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="1">
-          <mxGeometry x="1893" y="3268.96" width="120" height="30" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2039" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="1892.5" y="3278" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2040" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1935" y="3361.62" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2041" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-120;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1938" y="3408.5" width="30" height="120" as="geometry" />
+          <mxGeometry x="1938" y="3400.06" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
