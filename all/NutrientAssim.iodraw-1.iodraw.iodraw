@@ -7074,8 +7074,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.073;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-4" target="5U4R1dnqY248DligrYlA-1998">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UkON9byD9si17dHemA0t-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.073;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-4" target="5U4R1dnqY248DligrYlA-1998">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1136" y="5070" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
