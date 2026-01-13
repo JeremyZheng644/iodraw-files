@@ -6565,11 +6565,22 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2180" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;3+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="3099.999999999999" y="-4239.999999999999" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2177" target="5U4R1dnqY248DligrYlA-2184">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3340" y="-4359" />
+              <mxPoint x="3340" y="-4300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2177" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;FRO7&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="3320" y="-4506.629999999999" width="127.8" height="127.8" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2184" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="3209.999999999999" y="-4339.999999999999" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.316;entryY=0.956;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2180" target="5U4R1dnqY248DligrYlA-2177">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
