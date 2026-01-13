@@ -6374,11 +6374,14 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2124" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1652.77" y="5070.17" width="108.03" height="121.15" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2122" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;.OH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-2124">
-          <mxGeometry x="17.01000000000022" width="70" height="70" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2125" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-2124">
+          <mxGeometry x="-42.77" width="198.03" height="121.15" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2123" value="Hydroxy radical (ROS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="5U4R1dnqY248DligrYlA-2124">
-          <mxGeometry x="-90" y="92.2" width="198.03" height="28.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2122" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;.OH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="5U4R1dnqY248DligrYlA-2125">
+          <mxGeometry x="59.78000000000022" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2123" value="Hydroxy radical (ROS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="5U4R1dnqY248DligrYlA-2125">
+          <mxGeometry y="92.2" width="198.03" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
