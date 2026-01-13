@@ -6426,7 +6426,7 @@
           <mxGeometry x="1191.7099999999998" y="5009.999999999999" width="51.94" height="51.94" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2149" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2706" y="2370" width="216.73000000000002" height="138.94999999999982" as="geometry" />
+          <mxGeometry x="2706" y="2350" width="216.73000000000002" height="138.94999999999982" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2152" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-2149">
           <mxGeometry width="216.73" height="138.95" as="geometry" />
@@ -6448,8 +6448,8 @@
             <Array as="points">
               <mxPoint x="1221" y="4550" />
               <mxPoint x="2550" y="4550" />
-              <mxPoint x="2550" y="2590" />
-              <mxPoint x="2814" y="2590" />
+              <mxPoint x="2550" y="2560" />
+              <mxPoint x="2814" y="2560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6458,8 +6458,8 @@
             <Array as="points">
               <mxPoint x="118" y="4470" />
               <mxPoint x="2580" y="4470" />
-              <mxPoint x="2580" y="2610" />
-              <mxPoint x="2799" y="2610" />
+              <mxPoint x="2580" y="2580" />
+              <mxPoint x="2799" y="2580" />
             </Array>
           </mxGeometry>
         </mxCell>
