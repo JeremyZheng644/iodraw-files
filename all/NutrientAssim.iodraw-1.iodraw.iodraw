@@ -6050,7 +6050,7 @@
           <mxGeometry x="914" y="4540" width="102.15" height="102.15" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2005" value="Biosynthesis of nicotianamine derived phytosiderophores, e.g., mugineic acids" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="995.7799999999999" y="4681.05" width="592.88" height="28.95" as="geometry" />
+          <mxGeometry x="349.9999999999999" y="4681.05" width="592.88" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2010" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2006" target="5U4R1dnqY248DligrYlA-2009">
           <mxGeometry relative="1" as="geometry">
@@ -6320,7 +6320,12 @@
           <mxGeometry x="1390" y="4868.950000000001" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2034" target="5U4R1dnqY248DligrYlA-2064">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1266" y="4520" />
+              <mxPoint x="2092" y="4520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
