@@ -6387,16 +6387,10 @@
           <mxGeometry x="1380" y="5286.749999999999" width="278.28" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2130" value="Cell wall loosening during growth &amp;amp; abscission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1297" y="5443.72" width="430" height="28.95" as="geometry" />
+          <mxGeometry x="1300" y="5461.94" width="430" height="68.06" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2123" target="5U4R1dnqY248DligrYlA-2130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1726" y="5397" />
-              <mxPoint x="1740" y="5397" />
-              <mxPoint x="1740" y="5458" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="5U4R1dnqY248DligrYlA-2131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2123" target="5U4R1dnqY248DligrYlA-2130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
