@@ -5798,7 +5798,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1924" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=circle;endFill=0;endSize=4;startSize=2;strokeColor=#FF9933;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1724" target="5U4R1dnqY248DligrYlA-1923">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1724" target="5U4R1dnqY248DligrYlA-2329">
+        <mxCell id="5U4R1dnqY248DligrYlA-2330" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1724" target="5U4R1dnqY248DligrYlA-2329">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1840" y="2800" />
@@ -7002,6 +7002,9 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2366" value="YS1/YSL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="11618.880000000001" y="2150" width="116.65" height="116.65" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2375" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;NA &amp;amp; MAs participate in shoot-to-root remobilisation of Fe (through phloem)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="1980" width="600" height="89.91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
