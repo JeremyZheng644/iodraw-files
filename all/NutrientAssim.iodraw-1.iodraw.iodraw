@@ -7155,7 +7155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-34" value="&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;NIP5;1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=90;" vertex="1" parent="1">
+        <mxCell id="UkON9byD9si17dHemA0t-34" value="&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;BOR 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2205" y="5083.61" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
