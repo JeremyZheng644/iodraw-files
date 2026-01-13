@@ -5238,10 +5238,10 @@
           <mxGeometry x="-2872.68" y="-1390" width="270" height="199" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1525" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;container=0;fontStyle=1;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1649.71" width="90" height="90" as="geometry" />
+          <mxGeometry x="860" y="1649.71" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1526" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFFF00;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="908.2199999999998" y="1940" width="73.56" height="73.56" as="geometry" />
+          <mxGeometry x="868.2199999999998" y="1940" width="73.56" height="73.56" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1527" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;SO&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;2-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFFF00;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="797.1199999999998" y="2050" width="73.56" height="73.56" as="geometry" />
