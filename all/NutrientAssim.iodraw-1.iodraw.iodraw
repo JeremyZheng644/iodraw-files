@@ -5598,6 +5598,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1663" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Complex Dissociation&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-2059.48" y="-6459" width="234.51" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1668" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;(From shoot)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1308.57" y="-443" width="208.57" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
