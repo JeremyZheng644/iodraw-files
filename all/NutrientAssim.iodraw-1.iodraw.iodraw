@@ -5465,7 +5465,12 @@
           <mxGeometry x="3733.56" y="-7020" width="73.56" height="73.56" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1703" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1626" target="5U4R1dnqY248DligrYlA-1574">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3389" y="-5830" />
+              <mxPoint x="5311" y="-5830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1626" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;Cys&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFF00;container=0;fontStyle=1;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3360" y="-7159" width="58" height="58" as="geometry" />
