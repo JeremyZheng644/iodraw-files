@@ -6299,6 +6299,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1995" value="&lt;div&gt;&lt;font style=&quot;font-size: 39px;&quot;&gt;Strategy 1 (Non-gramineaceous)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-976.65" y="5290" width="640" height="78.95" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1996" value="&lt;div&gt;&lt;font style=&quot;font-size: 39px;&quot;&gt;Strategy 2 (Gramineaceous)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="312.99999999999994" y="5297" width="640" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
