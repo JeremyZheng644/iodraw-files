@@ -5354,19 +5354,19 @@
           <mxGeometry x="3652.62" y="-6327.56" width="73.56" height="73.56" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1598" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Cys&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFFF00;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="3860" y="-6183.56" width="73.56" height="73.56" as="geometry" />
+          <mxGeometry x="4284.72" y="-6470" width="73.56" height="73.56" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1600" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;OAS&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="4309.999999999998" y="-6529.999999999999" width="63" height="63" as="geometry" />
+          <mxGeometry x="4289.999999999998" y="-6549.999999999999" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1601" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Ser&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFD966;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="3796.999999999998" y="-6302.999999999999" width="63" height="63" as="geometry" />
+          <mxGeometry x="4358.279999999998" y="-6549.999999999999" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1602" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Ac-CoA&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFFF00;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="4100" y="-6600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1603" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Serine Aceyl-trasferase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="4398.47" y="-6560" width="170" height="126" as="geometry" />
+          <mxGeometry x="4386.5" y="-6550" width="170" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
