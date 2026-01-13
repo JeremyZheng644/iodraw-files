@@ -6831,7 +6831,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2311" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Cytoplasm Iron-sulfur protein Assembly (CIA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2785.98" y="-7130" width="380" height="82.93" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2227" target="5U4R1dnqY248DligrYlA-2311">
+        <mxCell id="5U4R1dnqY248DligrYlA-2316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2227" target="5U4R1dnqY248DligrYlA-2311">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3426" y="-5740" />
@@ -6844,9 +6844,6 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2319" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;ABC Transporter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2702.01" y="-6691.93" width="257.99" height="42.93" as="geometry" />
-        </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2317" target="5U4R1dnqY248DligrYlA-2311">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
