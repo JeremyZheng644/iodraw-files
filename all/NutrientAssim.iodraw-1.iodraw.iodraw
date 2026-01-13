@@ -7131,6 +7131,12 @@
         <mxCell id="UkON9byD9si17dHemA0t-25" value="Mineral nutrient with the narrowest range between deficiency &amp;amp; toxicity: can be deficient in high rainfall areas &amp;amp; toxic in semi-arid regions" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="2270" y="5420" width="685" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="5167.800000000001" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="5091.360000000001" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
