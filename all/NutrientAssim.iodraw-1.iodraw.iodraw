@@ -6161,6 +6161,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1946" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Iron(III)-Chelate&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="-4130" y="4560" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1948" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.275;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1946" target="5U4R1dnqY248DligrYlA-1928">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
