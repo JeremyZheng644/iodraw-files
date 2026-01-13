@@ -6363,7 +6363,7 @@
           <mxGeometry x="914" y="4610" width="102.15" height="102.15" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2119" value="Excess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="146.26999999999995" y="4652.45" width="216.73" height="28.95" as="geometry" />
+          <mxGeometry x="130" y="4652.45" width="156.73" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
