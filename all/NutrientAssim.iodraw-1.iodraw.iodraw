@@ -6349,8 +6349,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2114" value="Oxidation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="108.03999999999996" y="4580" width="216.73" height="28.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2117" value="Oxidation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="118.03999999999996" y="4590" width="216.73" height="28.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2117" value="Vacuolar Transport" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="121.64999999999999" y="4429.05" width="296.24" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
