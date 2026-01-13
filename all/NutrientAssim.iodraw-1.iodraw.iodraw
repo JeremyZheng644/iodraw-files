@@ -7099,14 +7099,6 @@
         <mxCell id="UkON9byD9si17dHemA0t-23" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2350" y="5311.9400000000005" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-24" target="UkON9byD9si17dHemA0t-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2210" y="4838" />
-              <mxPoint x="2210" y="4098" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2055" y="4826.000000000001" width="80" height="80" as="geometry" />
         </mxCell>
@@ -7186,6 +7178,13 @@
         </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-45" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BOR 1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="6350" y="4425" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-24" target="UkON9byD9si17dHemA0t-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2123" y="4098" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
