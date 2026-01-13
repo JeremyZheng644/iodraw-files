@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="11783" dy="10316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="12343" dy="11226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6288,13 +6288,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1988" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;RSA modifications&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="-468.9699999999999" y="4268.030000000001" width="260" height="28.95" as="geometry" />
+          <mxGeometry x="-468.9699999999999" y="4275.030000000001" width="260" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1989" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Increase in density of secondary lateral roots&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="-49.99999999999994" y="4222.1" width="420" height="28.95" as="geometry" />
+          <mxGeometry x="-49.99999999999994" y="4229.1" width="420" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1992" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;Root hair elongates&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="-52.88" y="4314" width="282.12" height="28.95" as="geometry" />
+          <mxGeometry x="-52.88" y="4321" width="282.12" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
