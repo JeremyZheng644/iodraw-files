@@ -6054,9 +6054,6 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2003" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2002" target="5U4R1dnqY248DligrYlA-2000">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2002" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="914" y="4610" width="102.15" height="102.15" as="geometry" />
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2005" value="Biosynthesis of nicotianamine derived phytosiderophores, e.g., mugineic acids" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="349.9999999999999" y="4770" width="592.88" height="28.95" as="geometry" />
         </mxCell>
@@ -6361,6 +6358,12 @@
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1932" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="87.88000000000011" y="4887.9" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2002" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="914" y="4610" width="102.15" height="102.15" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2119" value="Excess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="146.26999999999995" y="4652.45" width="216.73" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
