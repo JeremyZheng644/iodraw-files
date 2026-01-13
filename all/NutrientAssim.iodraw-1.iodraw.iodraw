@@ -6109,7 +6109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2031" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1111" y="4820" width="155" height="192.67000000000098" as="geometry" />
+          <mxGeometry x="1111" y="4800" width="155" height="192.67000000000098" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2032" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-2031">
           <mxGeometry width="155" height="126.18000000000029" as="geometry" />
@@ -6314,11 +6314,13 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2108" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;2+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1940" y="4930.000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2033" target="5U4R1dnqY248DligrYlA-2000">
+        <mxCell id="5U4R1dnqY248DligrYlA-2112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162.0750000000007" y="4789.999999999998" as="sourcePoint" />
+            <mxPoint x="1002.7104788492834" y="4884.9595211507185" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1162" y="4790" />
-              <mxPoint x="1003" y="4790" />
+              <mxPoint x="1162" y="4780" />
+              <mxPoint x="1003" y="4780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6395,7 +6397,7 @@
           <mxGeometry x="1145" y="5326.18" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2134" value="YS1 Complements Fe-transport deficient mutant in DMA (phytosiderophore) + BPDS (Fe&lt;sup&gt;2+&lt;/sup&gt; chelator)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="5020" width="390" height="88" as="geometry" />
+          <mxGeometry x="1270" y="4992" width="390" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
