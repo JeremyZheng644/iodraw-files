@@ -7228,6 +7228,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-175" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Km = ~80uM (low affinity)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="5350.19" y="-5220" width="417.09" height="78.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
