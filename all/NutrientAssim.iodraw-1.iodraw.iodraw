@@ -7134,11 +7134,8 @@
         <mxCell id="UkON9byD9si17dHemA0t-26" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
           <mxGeometry x="2516.07" y="5280.000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NIP5;1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2280" y="5195.000000000001" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-28" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;BOR 1&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2275" y="4833.34" width="80" height="80" as="geometry" />
+          <mxGeometry x="2250" y="4833.34" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-31" value="&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;NIP5;1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="2176.32" y="4994.7699999999995" width="95" height="126.65" as="geometry" />
