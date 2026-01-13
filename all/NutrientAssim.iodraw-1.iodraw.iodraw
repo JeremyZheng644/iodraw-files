@@ -6332,10 +6332,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2114" value="Oxidation &amp;amp; Ferritin Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="108.03999999999996" y="4570" width="216.73" height="28.95" as="geometry" />
+          <mxGeometry x="108.04" y="4570" width="471.96" height="28.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2117" value="Vacuolar Transport" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="121.64999999999999" y="4490" width="296.24" height="28.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2117" value="Vacuolar Transport / Xylem Export" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="121.65" y="4490" width="538.35" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" target="5U4R1dnqY248DligrYlA-2108">
           <mxGeometry relative="1" as="geometry">
