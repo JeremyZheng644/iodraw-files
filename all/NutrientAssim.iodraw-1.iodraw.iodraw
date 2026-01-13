@@ -6594,7 +6594,7 @@
           <mxGeometry x="3880" y="-4388.639999999999" width="159" height="74.32" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2194" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 31px;&quot;&gt;Proteins&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=36;" vertex="1" parent="1">
-          <mxGeometry x="3561" y="-4861.37" width="159" height="74.32" as="geometry" />
+          <mxGeometry x="3624.4" y="-4779.43" width="159" height="74.32" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2195" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;FeS Protein Biogenesis Machinery&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFF00;size=40;" vertex="1" parent="1">
           <mxGeometry x="3090" y="-5150" width="240" height="160" as="geometry" />
