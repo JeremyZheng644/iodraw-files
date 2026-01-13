@@ -5629,13 +5629,13 @@
           <mxGeometry x="7339.999999999998" y="1385.69" width="287.68" height="78.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1679" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;SLIM1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="7399.999999999999" y="1578.8899999999999" width="151.89" height="151.89" as="geometry" />
+          <mxGeometry x="7407.899999999999" y="1574.9999999999998" width="151.89" height="151.89" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1680" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;TF&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="7800.000000000001" y="1430.0000000000005" width="60" height="60" as="geometry" />
+          <mxGeometry x="7499.790000000001" y="1483.9500000000005" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1681" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;miR395&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="7465.870000000001" y="1734.06" width="115.94" height="115.94" as="geometry" />
+          <mxGeometry x="7390.000000000001" y="1834.06" width="115.94" height="115.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
