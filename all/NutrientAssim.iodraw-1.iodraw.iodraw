@@ -5563,7 +5563,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1658" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;OAS (Thiol)Lyase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2362.9700000000007" y="-6384" width="170" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1652" target="5U4R1dnqY248DligrYlA-1658">
+        <mxCell id="5U4R1dnqY248DligrYlA-1659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1652" target="5U4R1dnqY248DligrYlA-1658">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1660" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Ac&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
