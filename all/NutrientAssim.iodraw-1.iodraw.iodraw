@@ -6745,8 +6745,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2274" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;Homozygous mutation is lethal, whilst heterozygous mutants show impaired growth&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=39;fontColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="-2750" y="-5486.51" width="301" height="78.95" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2274" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Homozygous mutation is lethal, whilst heterozygous mutants show impaired growth&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=39;fontColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="-3070" y="-5507.77" width="295.75" height="78.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
