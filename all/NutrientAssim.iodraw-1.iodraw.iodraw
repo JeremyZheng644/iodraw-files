@@ -6652,7 +6652,7 @@
           <mxGeometry x="20" y="55" width="63.56" height="63.56" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2235" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;FeS Protein Biogenesis Machinery&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFF00;size=40;" vertex="1" parent="1">
-          <mxGeometry x="4010" y="-5236.5" width="240" height="160" as="geometry" />
+          <mxGeometry x="-2610" y="-5334.85" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
