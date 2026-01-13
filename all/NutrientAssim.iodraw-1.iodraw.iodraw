@@ -6005,7 +6005,7 @@
           <mxGeometry x="-796.6999999999999" y="4630" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1983" value="&lt;div&gt;Failure to perform transcription activation leads to chlorosis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="4577.91" width="483.4" height="164.18" as="geometry" />
+          <mxGeometry x="-410" y="4577.91" width="483.4" height="164.18" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1987" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1988" target="5U4R1dnqY248DligrYlA-1989">
           <mxGeometry relative="1" as="geometry" />
