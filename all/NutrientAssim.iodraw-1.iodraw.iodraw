@@ -6320,6 +6320,9 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2002" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="915.73" y="4608.92" width="102.15" height="102.15" as="geometry" />
         </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2005" value="Biosynthesis of nicotianamine derivatives, e.g., mugineic acid family phytosiderophores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="4560.000000000001" width="260" height="28.95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
