@@ -6033,9 +6033,6 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1996" value="&lt;div&gt;&lt;font style=&quot;font-size: 39px;&quot;&gt;Strategy 2 (Gramineaceous)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="287.22999999999996" y="5290" width="640" height="78.95" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1998" value="YS1/YSL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="5083.61" width="116.65" height="116.65" as="geometry" />
-        </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2007" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2000" target="5U4R1dnqY248DligrYlA-2006">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -6409,7 +6406,13 @@
           <mxGeometry x="880" y="2560" width="216.73" height="28.95" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2138" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1202.7899999999997" y="5269.999999999999" width="51.94" height="51.94" as="geometry" />
+          <mxGeometry x="1192.5299999999997" y="5259.999999999999" width="51.94" height="51.94" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-1998" value="YS1/YSL" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="5083.61" width="116.65" height="116.65" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2140" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;H&lt;sup&gt;+&lt;/sup&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1202.5299999999997" y="5269.999999999999" width="51.94" height="51.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
