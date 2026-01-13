@@ -5511,7 +5511,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1642" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Complex Dissociation&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;strokeWidth=2;fontSize=44;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="3989.0499999999997" y="-7299" width="234.51" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1645" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1646" target="5U4R1dnqY248DligrYlA-1658">
+        <mxCell id="5U4R1dnqY248DligrYlA-1645" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1646" target="5U4R1dnqY248DligrYlA-1658">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1646" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;S&lt;sup&gt;2-&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#FFFF00;strokeColor=#B09500;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#000000;" vertex="1" parent="1">
@@ -5560,7 +5560,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1657" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1658" target="5U4R1dnqY248DligrYlA-1647">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1658" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;OAS (Thiol)Lyase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="5U4R1dnqY248DligrYlA-1658" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;OAS (Thiol)Lyase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;container=0;fontStyle=1;strokeColor=default;arcSize=28;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-2362.9700000000007" y="-6384" width="170" height="126" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1659" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1652" target="5U4R1dnqY248DligrYlA-1658">
