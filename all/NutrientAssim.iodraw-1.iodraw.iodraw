@@ -6324,9 +6324,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2108" target="5U4R1dnqY248DligrYlA-2128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1430" y="5080" />
-              <mxPoint x="1440" y="5080" />
-              <mxPoint x="1440" y="5250" />
+              <mxPoint x="1430" y="5170" />
+              <mxPoint x="1430" y="5170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6381,7 +6380,7 @@
           <mxGeometry x="1290.0000000000002" y="5230" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2124" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1670" y="5230" width="108.03" height="121.15" as="geometry" />
+          <mxGeometry x="1500" y="5230" width="108.03" height="121.15" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2125" value="" style="group" vertex="1" connectable="0" parent="5U4R1dnqY248DligrYlA-2124">
           <mxGeometry x="-42.77" width="198.03" height="121.15" as="geometry" />
@@ -6396,7 +6395,7 @@
           <mxGeometry x="1340" y="5250" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2130" value="Cell wall loosening during growth &amp;amp; abscission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="5445.969999999999" width="430" height="68.06" as="geometry" />
+          <mxGeometry x="1230" y="5445.97" width="380" height="60.15" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2123" target="5U4R1dnqY248DligrYlA-2130">
           <mxGeometry relative="1" as="geometry" />
