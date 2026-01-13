@@ -5637,7 +5637,7 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1680" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;TF&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="8369.790000000003" y="1715.6000000000008" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-1689" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1681" target="5U4R1dnqY248DligrYlA-1674">
+        <mxCell id="5U4R1dnqY248DligrYlA-1689" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;endArrow=box;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-1681" target="5U4R1dnqY248DligrYlA-1674">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-1681" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;miR395&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d0cee2;container=0;fontStyle=1;strokeColor=#56517e;" vertex="1" parent="1">
