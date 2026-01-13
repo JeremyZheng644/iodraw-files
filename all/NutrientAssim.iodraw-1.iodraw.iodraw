@@ -6506,8 +6506,13 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2165" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Fe&lt;sup&gt;3+&lt;/sup&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;container=0;fontStyle=1;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="3129.999999999999" y="-3279.999999999999" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2158" target="5U4R1dnqY248DligrYlA-2165">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2158" target="5U4R1dnqY248DligrYlA-2165">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6321" y="-3100" />
+              <mxPoint x="3170" y="-3100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
