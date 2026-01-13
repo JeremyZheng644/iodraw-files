@@ -6407,7 +6407,10 @@
           <mxGeometry x="1280" y="4992" width="390" height="88" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2136" value="Oxidation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="118.03999999999996" y="4580" width="216.73" height="28.95" as="geometry" />
+          <mxGeometry x="1484.77" y="2825" width="216.73" height="28.95" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2137" value="Oxidation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2560" width="216.73" height="28.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
