@@ -7167,7 +7167,7 @@
         <mxCell id="UkON9byD9si17dHemA0t-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;B(OH)&lt;sub&gt;3&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
           <mxGeometry x="3440" y="4287.950000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.981;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-23" target="UkON9byD9si17dHemA0t-26">
+        <mxCell id="UkON9byD9si17dHemA0t-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.981;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="UkON9byD9si17dHemA0t-23" target="UkON9byD9si17dHemA0t-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
