@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="12161" dy="10930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="11888" dy="10487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6311,8 +6311,11 @@
         <mxCell id="5U4R1dnqY248DligrYlA-1999" value="&lt;div&gt;&lt;i&gt;At&lt;/i&gt;IRT1/2 complements yeast Fe&lt;sup&gt;2+ &lt;/sup&gt;uptake mutant&lt;/div&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;&lt;i&gt;At&lt;/i&gt;IRT1/2 induced in roots 1d after Fe-&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 29px;&quot;&gt;IRT1 more quickly repressed after Fe repletion (Immunoblot evidence)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="1286.21" y="4798" width="693.58" height="164.18" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2000" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;MAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="934.89" y="4859.85" width="102.15" height="102.15" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2000" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;MAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="917.25" y="4770" width="102.15" height="102.15" as="geometry" />
+        </mxCell>
+        <mxCell id="5U4R1dnqY248DligrYlA-2003" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U4R1dnqY248DligrYlA-2002" target="5U4R1dnqY248DligrYlA-2000">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5U4R1dnqY248DligrYlA-2002" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;NAs&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1;fillColor=#eeeeee;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="915.73" y="4608.92" width="102.15" height="102.15" as="geometry" />
