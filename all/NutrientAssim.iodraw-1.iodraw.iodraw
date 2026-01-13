@@ -6419,8 +6419,8 @@
         <mxCell id="5U4R1dnqY248DligrYlA-2040" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1935" y="3361.62" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U4R1dnqY248DligrYlA-2041" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="3326.62" width="30" height="120" as="geometry" />
+        <mxCell id="5U4R1dnqY248DligrYlA-2041" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-120;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1938" y="3408.5" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
