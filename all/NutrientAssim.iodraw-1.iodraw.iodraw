@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="yRyJSKFHpmKNu0NCH5oL">
-    <mxGraphModel dx="11448" dy="9889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="12144" dy="11103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7297,7 +7297,7 @@
           <mxGeometry x="1825" y="5530" width="685" height="88" as="geometry" />
         </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-204" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Boric Acid Efflux Transporter (&lt;/span&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;At&lt;/i&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;BOR1 homolog)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#000000;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="5253.94" width="140" height="88" as="geometry" />
+          <mxGeometry x="2106.32" y="5190" width="140" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
