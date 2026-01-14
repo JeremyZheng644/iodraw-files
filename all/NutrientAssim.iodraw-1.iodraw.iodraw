@@ -7244,7 +7244,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UkON9byD9si17dHemA0t-179" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Cell Wall Strengthening (Boroester crosslinks)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="6380" y="-4878.68" width="188.54" height="50" as="geometry" />
+          <mxGeometry x="6486.14" y="-4925.1900000000005" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-180" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Pollen Tube Growth&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="6475.200000000001" y="-4828.68" width="390" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
