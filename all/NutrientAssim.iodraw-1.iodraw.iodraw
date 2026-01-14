@@ -7297,12 +7297,6 @@
         <mxCell id="UkON9byD9si17dHemA0t-208" value="BOT1 Identified through QTL in Barley&lt;div&gt;Sahara barely tolerant to high B due to two aa difference + higher copy number&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF8000;fontSize=29;" vertex="1" parent="1">
           <mxGeometry x="2090" y="5452" width="563.5" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-209" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Si(OH)&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2197.74" y="4892.380000000001" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-210" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Si(OH)&lt;sub&gt;4&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;container=0;fontStyle=1;strokeColor=#0e8088;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="5118.950000000002" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
