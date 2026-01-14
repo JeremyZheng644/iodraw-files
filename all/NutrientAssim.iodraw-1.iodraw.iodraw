@@ -7249,6 +7249,9 @@
         <mxCell id="UkON9byD9si17dHemA0t-179" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Cell Wall Strengthening (Boroester crosslinks)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="6486.14" y="-4925.1900000000005" width="390" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UkON9byD9si17dHemA0t-181" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Cell Wall Strengthening (Boroester crosslinks)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="3042.3300000000004" y="5235.58" width="390" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
