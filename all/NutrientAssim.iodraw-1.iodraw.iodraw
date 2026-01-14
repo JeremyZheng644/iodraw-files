@@ -458,11 +458,11 @@
         <mxCell id="UkON9byD9si17dHemA0t-22" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Cd-permeable&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=none;fontColor=#FF9933;" vertex="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54">
           <mxGeometry x="5955.7" y="4730" width="191.12" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UkON9byD9si17dHemA0t-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54" source="UkON9byD9si17dHemA0t-57" target="UkON9byD9si17dHemA0t-174">
+        <mxCell id="UkON9byD9si17dHemA0t-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="nIjLyHWwJ4Qba_-Fn9xl-54" source="UkON9byD9si17dHemA0t-57" target="UkON9byD9si17dHemA0t-174">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4330" y="12221" />
-              <mxPoint x="4330" y="3190" />
+              <mxPoint x="4320" y="12221" />
+              <mxPoint x="4320" y="3190" />
             </Array>
           </mxGeometry>
         </mxCell>
